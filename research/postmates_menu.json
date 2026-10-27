@@ -1,0 +1,3806 @@
+{
+  "sourceUrl": "https://postmates.com/store/nonas-urban-pizza/8x1gV2NsSPOaE9TBB4558Q",
+  "extractedAt": "2026-10-27T20:18:00Z",
+  "store": {
+    "name": "Nona's Urban Pizza",
+    "uuid": "f31d6057-636c-48f3-9a13-d4c1078e79f1",
+    "slug": "nonas-urban-pizza",
+    "phoneNumber": "+14072701815",
+    "phoneFormatted": "(407) 270-1815",
+    "currencyCode": "USD",
+    "cuisines": [
+      "Italian",
+      "Pizza",
+      "American"
+    ],
+    "rating": {
+      "ratingValue": 4.6,
+      "rawRatingScore": 4.566825775656325,
+      "reviewCount": "480+"
+    },
+    "location": {
+      "address": "9971 Tagore Place, 1, Orlando, FL 32827",
+      "streetAddress": "9971 Tagore Place, 1",
+      "city": "Orlando",
+      "country": "US",
+      "postalCode": "32827",
+      "region": "FL",
+      "latitude": 28.389094,
+      "longitude": -81.245884,
+      "geo": {
+        "city": "orlando-fl",
+        "country": "us",
+        "neighborhood": "fountains-at-narcoossee-orlando-fl",
+        "region": "fl"
+      },
+      "locationType": "PHYSICAL"
+    },
+    "hours": [
+      {
+        "dayRange": "Sunday - Thursday",
+        "hours": [
+          {
+            "startMinutes": 660,
+            "endMinutes": 1245,
+            "formatted": "11:00 AM – 8:45 PM"
+          }
+        ]
+      },
+      {
+        "dayRange": "Friday - Saturday",
+        "hours": [
+          {
+            "startMinutes": 660,
+            "endMinutes": 1365,
+            "formatted": "11:00 AM – 10:45 PM"
+          }
+        ]
+      }
+    ],
+    "menuHoursSubtitle": "11:00 AM – 8:45 PM",
+    "workingHoursTagline": "Open until 8:45 PM",
+    "heroBanner": {
+      "originalUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5fa1608baf05fe2433361118f1cd54d8/16bb0a3ab8ea98cfe8906135767f7bf4.webp",
+      "localFilename": "store-hero-banner.webp",
+      "localPath": "assets/menu/store-hero-banner.webp",
+      "absolutePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/NonasUrbanPizza/assets/menu/store-hero-banner.webp",
+      "width": 2880,
+      "height": 1920,
+      "format": "webp",
+      "sizeBytes": 510154,
+      "allResolutions": [
+        {
+          "url": "https://tb-static.uber.com/prod/image-proc/processed_images/5fa1608baf05fe2433361118f1cd54d8/ec1689ae3a25695f1b8e25c59bec5034.webp",
+          "width": 240
+        },
+        {
+          "url": "https://tb-static.uber.com/prod/image-proc/processed_images/5fa1608baf05fe2433361118f1cd54d8/69ad85cd7b39888042b3bbf1c22d630d.webp",
+          "width": 550
+        },
+        {
+          "url": "https://tb-static.uber.com/prod/image-proc/processed_images/5fa1608baf05fe2433361118f1cd54d8/1d4135bf27b924efdd528452baa17174.webp",
+          "width": 640
+        },
+        {
+          "url": "https://tb-static.uber.com/prod/image-proc/processed_images/5fa1608baf05fe2433361118f1cd54d8/e0131c83be09a5694ebe179208a3825d.webp",
+          "width": 750
+        },
+        {
+          "url": "https://tb-static.uber.com/prod/image-proc/processed_images/5fa1608baf05fe2433361118f1cd54d8/d24a30ada2fef6c54cef8739d94823b0.webp",
+          "width": 1080
+        },
+        {
+          "url": "https://tb-static.uber.com/prod/image-proc/processed_images/5fa1608baf05fe2433361118f1cd54d8/16bb0a3ab8ea98cfe8906135767f7bf4.webp",
+          "width": 2880
+        }
+      ]
+    }
+  },
+  "summary": {
+    "totalCategories": 8,
+    "totalMenuItems": 57,
+    "totalFeaturedItems": 11,
+    "totalUniqueFoodPhotosDownloaded": 20,
+    "storeHeroBannerDownloaded": true
+  },
+  "featuredItems": {
+    "uuid": "0379a62a-1156-4ddb-a09a-7e1dc45d5dfb",
+    "name": "Featured items",
+    "itemCount": 11,
+    "items": [
+      {
+        "uuid": "f993855c-fd34-41d8-a62c-544613a3e133",
+        "name": "Extra Large Cheese Pizza 16\"",
+        "description": "A generous serving of melted cheese on a 16-inch pizza crust.",
+        "priceFormatted": "$21.99",
+        "priceDollars": 21.99,
+        "priceCents": 2199,
+        "isAvailable": true,
+        "isSoldOut": false,
+        "hasCustomizations": true,
+        "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/13ced0a1c2d56a86dc3b4183839d0a9a/3093d07d5a810674a6d7adf26679874b.jpeg",
+        "localImage": {
+          "filename": "extra-large-cheese-pizza-16in.jpeg",
+          "relativePath": "assets/menu/extra-large-cheese-pizza-16in.jpeg",
+          "width": 582,
+          "height": 440,
+          "format": "jpeg",
+          "sizeBytes": 48090
+        },
+        "endorsement": {
+          "endorsementType": "most_liked",
+          "ratingPercentage": "90%",
+          "reviewCount": 30,
+          "badges": [
+            "#1 most liked"
+          ],
+          "allTags": [
+            "#1 most liked",
+            "90% (30)"
+          ]
+        },
+        "customizations": [
+          {
+            "uuid": "b103f243-5eaf-4c2a-be6a-32995d8f25d9",
+            "title": "Choice of add on - Cheese Pizza X-Large",
+            "minPermitted": 0,
+            "maxPermitted": 5,
+            "options": [
+              {
+                "uuid": "3e430e26-d9d6-4b90-b5c1-343e93117405",
+                "title": "Bacon",
+                "priceCents": 150,
+                "priceDollars": 1.5,
+                "priceFormatted": "$1.50",
+                "isSoldOut": false
+              },
+              {
+                "uuid": "ac0421ed-2a2b-461c-af9b-e288c80710ef",
+                "title": "Pepperoni",
+                "priceCents": 150,
+                "priceDollars": 1.5,
+                "priceFormatted": "$1.50",
+                "isSoldOut": false
+              },
+              {
+                "uuid": "4cba54fb-786e-43ae-ab57-f0023bdaafd3",
+                "title": "Sausage",
+                "priceCents": 150,
+                "priceDollars": 1.5,
+                "priceFormatted": "$1.50",
+                "isSoldOut": false
+              },
+              {
+                "uuid": "62be1a39-9509-4dac-9310-35e2cb0c9ab8",
+                "title": "Ham",
+                "priceCents": 150,
+                "priceDollars": 1.5,
+                "priceFormatted": "$1.50",
+                "isSoldOut": false
+              },
+              {
+                "uuid": "eca9fdf8-a460-445a-82d0-5353cf12f5ec",
+                "title": "Peppers",
+                "priceCents": 399,
+                "priceDollars": 3.99,
+                "priceFormatted": "$3.99",
+                "isSoldOut": false
+              },
+              {
+                "uuid": "a27ce213-94c8-4e74-a21e-c9afc012cc76",
+                "title": "Onions",
+                "priceCents": 150,
+                "priceDollars": 1.5,
+                "priceFormatted": "$1.50",
+                "isSoldOut": false
+              },
+              {
+                "uuid": "d28c3dbe-d36f-4191-bf7b-31273affc9f2",
+                "title": "Banana",
+                "priceCents": 399,
+                "priceDollars": 3.99,
+                "priceFormatted": "$3.99",
+                "isSoldOut": false
+              },
+              {
+                "uuid": "05b63608-1cd4-4523-9524-66d27496d638",
+                "title": "Jalapenos",
+                "priceCents": 150,
+                "priceDollars": 1.5,
+                "priceFormatted": "$1.50",
+                "isSoldOut": false
+              },
+              {
+                "uuid": "907de038-6c63-4eea-bd69-0efa1797f146",
+                "title": "Mushroom",
+                "priceCents": 150,
+                "priceDollars": 1.5,
+                "priceFormatted": "$1.50",
+                "isSoldOut": false
+              },
+              {
+                "uuid": "b8492117-8ab8-4ed4-af8d-2e125335b170",
+                "title": "Black Olves",
+                "priceCents": 399,
+                "priceDollars": 3.99,
+                "priceFormatted": "$3.99",
+                "isSoldOut": false
+              },
+              {
+                "uuid": "ed4588d8-9a8f-45dc-b18e-8477a8658ed9",
+                "title": "Pineapple",
+                "priceCents": 150,
+                "priceDollars": 1.5,
+                "priceFormatted": "$1.50",
+                "isSoldOut": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "uuid": "5378ea1b-60ef-4298-bb6a-7980b5f74441",
+        "name": "Pizza 1 Topping 14\" - Deals",
+        "description": "Classic 14\" pizza with one topping of your choice.",
+        "priceFormatted": "$20.79",
+        "priceDollars": 20.79,
+        "priceCents": 2079,
+        "isAvailable": true,
+        "isSoldOut": false,
+        "hasCustomizations": true,
+        "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5881d34ead862c6ee0d7426ceec38bcc/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+        "localImage": {
+          "filename": "pizza-1-topping-14in-deals.jpeg",
+          "relativePath": "assets/menu/pizza-1-topping-14in-deals.jpeg",
+          "width": 353,
+          "height": 320,
+          "format": "jpeg",
+          "sizeBytes": 30184
+        },
+        "endorsement": {
+          "endorsementType": "most_liked",
+          "ratingPercentage": "85%",
+          "reviewCount": 20,
+          "badges": [
+            "#2 most liked"
+          ],
+          "allTags": [
+            "#2 most liked",
+            "85% (20)"
+          ]
+        },
+        "customizations": [
+          {
+            "uuid": "2509bf2b-ff66-4542-b12e-480852dc093b",
+            "title": "Pizza 1 topping",
+            "minPermitted": 1,
+            "maxPermitted": 1,
+            "options": [
+              {
+                "uuid": "3e430e26-d9d6-4b90-b5c1-343e93117405",
+                "title": "Bacon",
+                "priceCents": 0,
+                "priceDollars": 0.0,
+                "priceFormatted": "$0.00",
+                "isSoldOut": false
+              },
+              {
+                "uuid": "ac0421ed-2a2b-461c-af9b-e288c80710ef",
+                "title": "Pepperoni",
+                "priceCents": 0,
+                "priceDollars": 0.0,
+                "priceFormatted": "$0.00",
+                "isSoldOut": false
+              },
+              {
+                "uuid": "4cba54fb-786e-43ae-ab57-f0023bdaafd3",
+                "title": "Sausage",
+                "priceCents": 0,
+                "priceDollars": 0.0,
+                "priceFormatted": "$0.00",
+                "isSoldOut": false
+              },
+              {
+                "uuid": "62be1a39-9509-4dac-9310-35e2cb0c9ab8",
+                "title": "Ham",
+                "priceCents": 0,
+                "priceDollars": 0.0,
+                "priceFormatted": "$0.00",
+                "isSoldOut": false
+              },
+              {
+                "uuid": "eca9fdf8-a460-445a-82d0-5353cf12f5ec",
+                "title": "Peppers",
+                "priceCents": 0,
+                "priceDollars": 0.0,
+                "priceFormatted": "$0.00",
+                "isSoldOut": false
+              },
+              {
+                "uuid": "a27ce213-94c8-4e74-a21e-c9afc012cc76",
+                "title": "Onions",
+                "priceCents": 0,
+                "priceDollars": 0.0,
+                "priceFormatted": "$0.00",
+                "isSoldOut": false
+              },
+              {
+                "uuid": "d28c3dbe-d36f-4191-bf7b-31273affc9f2",
+                "title": "Banana",
+                "priceCents": 0,
+                "priceDollars": 0.0,
+                "priceFormatted": "$0.00",
+                "isSoldOut": false
+              },
+              {
+                "uuid": "05b63608-1cd4-4523-9524-66d27496d638",
+                "title": "Jalapenos",
+                "priceCents": 0,
+                "priceDollars": 0.0,
+                "priceFormatted": "$0.00",
+                "isSoldOut": false
+              },
+              {
+                "uuid": "907de038-6c63-4eea-bd69-0efa1797f146",
+                "title": "Mushroom",
+                "priceCents": 0,
+                "priceDollars": 0.0,
+                "priceFormatted": "$0.00",
+                "isSoldOut": false
+              },
+              {
+                "uuid": "b8492117-8ab8-4ed4-af8d-2e125335b170",
+                "title": "Black Olves",
+                "priceCents": 0,
+                "priceDollars": 0.0,
+                "priceFormatted": "$0.00",
+                "isSoldOut": false
+              },
+              {
+                "uuid": "ed4588d8-9a8f-45dc-b18e-8477a8658ed9",
+                "title": "Pineapple",
+                "priceCents": 0,
+                "priceDollars": 0.0,
+                "priceFormatted": "$0.00",
+                "isSoldOut": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "uuid": "11c95e6a-3292-4a3b-81b5-f8a877f3ef81",
+        "name": "Tripleta Pizza",
+        "description": "Mozzarella cheese, ham, steak, pork, mayo ketchup, and potato sticks.",
+        "priceFormatted": "$22.99",
+        "priceDollars": 22.99,
+        "priceCents": 2299,
+        "isAvailable": true,
+        "isSoldOut": false,
+        "hasCustomizations": true,
+        "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7a74c64c21a776f6daa01adf707d62a3/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+        "localImage": {
+          "filename": "tripleta-pizza.jpeg",
+          "relativePath": "assets/menu/tripleta-pizza.jpeg",
+          "width": 333,
+          "height": 409,
+          "format": "jpeg",
+          "sizeBytes": 44242
+        },
+        "endorsement": {
+          "endorsementType": "most_liked",
+          "ratingPercentage": null,
+          "reviewCount": null,
+          "badges": [
+            "#3 most liked"
+          ],
+          "allTags": [
+            "#3 most liked",
+            "80% (20)"
+          ]
+        },
+        "customizations": [
+          {
+            "uuid": "c442389a-fa9d-4b80-96aa-3ecc934db192",
+            "title": "Choose your size",
+            "minPermitted": 1,
+            "maxPermitted": 1,
+            "options": [
+              {
+                "uuid": "a4b7931a-126c-443e-9ea5-74025168c2e4",
+                "title": "Large 14\"",
+                "priceCents": 0,
+                "priceDollars": 0.0,
+                "priceFormatted": "$0.00",
+                "isSoldOut": false
+              },
+              {
+                "uuid": "392e4e48-6bc5-4c61-b080-6c58b7d7fef0",
+                "title": "Extra Large 16\"",
+                "priceCents": 299,
+                "priceDollars": 2.99,
+                "priceFormatted": "$2.99",
+                "isSoldOut": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "uuid": "b416b6be-98d0-4b20-b287-8f1e63cfb0fd",
+        "name": "Chama Pizza",
+        "description": "Pizza sauce, mozzarella cheese, whole kernel corn, and smoked honey ham.",
+        "priceFormatted": "$21.99",
+        "priceDollars": 21.99,
+        "priceCents": 2199,
+        "isAvailable": true,
+        "isSoldOut": false,
+        "hasCustomizations": true,
+        "imageUrl": "https://tb-static.uber.com/prod/merchant-menu-ai/images/f31d6057-636c-48f3-9a13-d4c1078e79f1_b416b6be-98d0-4b20-b287-8f1e63cfb0fd.jpeg",
+        "localImage": {
+          "filename": "chama-pizza.jpeg",
+          "relativePath": "assets/menu/chama-pizza.jpeg",
+          "width": 733,
+          "height": 440,
+          "format": "jpeg",
+          "sizeBytes": 68816
+        },
+        "endorsement": {
+          "endorsementType": "ratings",
+          "ratingPercentage": "100%",
+          "reviewCount": 17,
+          "badges": [],
+          "allTags": [
+            "100% (17)"
+          ]
+        },
+        "customizations": [
+          {
+            "uuid": "c442389a-fa9d-4b80-96aa-3ecc934db192",
+            "title": "Choose your size",
+            "minPermitted": 1,
+            "maxPermitted": 1,
+            "options": [
+              {
+                "uuid": "a4b7931a-126c-443e-9ea5-74025168c2e4",
+                "title": "Large 14\"",
+                "priceCents": 0,
+                "priceDollars": 0.0,
+                "priceFormatted": "$0.00",
+                "isSoldOut": false
+              },
+              {
+                "uuid": "392e4e48-6bc5-4c61-b080-6c58b7d7fef0",
+                "title": "Extra Large 16\"",
+                "priceCents": 299,
+                "priceDollars": 2.99,
+                "priceFormatted": "$2.99",
+                "isSoldOut": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "uuid": "4a310680-5291-4f01-a5fe-a4d6ffdf9184",
+        "name": "Margherita Pizza",
+        "description": "Marinara sauce, fresh basil, olive oil, and fresh mozzarella.",
+        "priceFormatted": "$23.99",
+        "priceDollars": 23.99,
+        "priceCents": 2399,
+        "isAvailable": true,
+        "isSoldOut": false,
+        "hasCustomizations": true,
+        "imageUrl": "https://tb-static.uber.com/prod/merchant-menu-ai/images/f31d6057-636c-48f3-9a13-d4c1078e79f1_4a310680-5291-4f01-a5fe-a4d6ffdf9184.jpeg",
+        "localImage": {
+          "filename": "margherita-pizza.jpeg",
+          "relativePath": "assets/menu/margherita-pizza.jpeg",
+          "width": 733,
+          "height": 440,
+          "format": "jpeg",
+          "sizeBytes": 55770
+        },
+        "endorsement": {
+          "endorsementType": "ratings",
+          "ratingPercentage": "77%",
+          "reviewCount": 18,
+          "badges": [],
+          "allTags": [
+            "77% (18)"
+          ]
+        },
+        "customizations": [
+          {
+            "uuid": "b835a6e1-eba8-42a9-9ef4-2fb40a85b373",
+            "title": "Choose your size",
+            "minPermitted": 1,
+            "maxPermitted": 1,
+            "options": [
+              {
+                "uuid": "a4b7931a-126c-443e-9ea5-74025168c2e4",
+                "title": "Large 14\"",
+                "priceCents": 0,
+                "priceDollars": 0.0,
+                "priceFormatted": "$0.00",
+                "isSoldOut": false
+              },
+              {
+                "uuid": "392e4e48-6bc5-4c61-b080-6c58b7d7fef0",
+                "title": "Extra Large 16\"",
+                "priceCents": 299,
+                "priceDollars": 2.99,
+                "priceFormatted": "$2.99",
+                "isSoldOut": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "uuid": "7598a89d-16ea-4663-b5da-9e425609257d",
+        "name": "Meat Lover Pizza",
+        "description": "Pizza sauce, bacon, pepperoni, Italian sausage, and smoked ham.",
+        "priceFormatted": "$21.99",
+        "priceDollars": 21.99,
+        "priceCents": 2199,
+        "isAvailable": true,
+        "isSoldOut": false,
+        "hasCustomizations": true,
+        "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/eeeab986af1884063c5e8fb4538e902e/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+        "localImage": {
+          "filename": "meat-lover-pizza.jpeg",
+          "relativePath": "assets/menu/meat-lover-pizza.jpeg",
+          "width": 352,
+          "height": 347,
+          "format": "jpeg",
+          "sizeBytes": 29591
+        },
+        "endorsement": {
+          "endorsementType": "ratings",
+          "ratingPercentage": "88%",
+          "reviewCount": 17,
+          "badges": [],
+          "allTags": [
+            "88% (17)"
+          ]
+        },
+        "customizations": [
+          {
+            "uuid": "c442389a-fa9d-4b80-96aa-3ecc934db192",
+            "title": "Choose your size",
+            "minPermitted": 1,
+            "maxPermitted": 1,
+            "options": [
+              {
+                "uuid": "a4b7931a-126c-443e-9ea5-74025168c2e4",
+                "title": "Large 14\"",
+                "priceCents": 0,
+                "priceDollars": 0.0,
+                "priceFormatted": "$0.00",
+                "isSoldOut": false
+              },
+              {
+                "uuid": "392e4e48-6bc5-4c61-b080-6c58b7d7fef0",
+                "title": "Extra Large 16\"",
+                "priceCents": 299,
+                "priceDollars": 2.99,
+                "priceFormatted": "$2.99",
+                "isSoldOut": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "uuid": "47bee5d0-d94e-4f68-a64f-29d19ee8034e",
+        "name": "Wings (12 pcs)",
+        "description": "Tender and juicy chicken wings, perfect for snacking.",
+        "priceFormatted": "$22.99",
+        "priceDollars": 22.99,
+        "priceCents": 2299,
+        "isAvailable": true,
+        "isSoldOut": false,
+        "hasCustomizations": false,
+        "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/06725185978ead97c341309b366c6243/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+        "localImage": {
+          "filename": "wings-12-pcs.jpeg",
+          "relativePath": "assets/menu/wings-12-pcs.jpeg",
+          "width": 347,
+          "height": 370,
+          "format": "jpeg",
+          "sizeBytes": 31085
+        },
+        "endorsement": {
+          "endorsementType": "ratings",
+          "ratingPercentage": "83%",
+          "reviewCount": 18,
+          "badges": [],
+          "allTags": [
+            "83% (18)"
+          ]
+        },
+        "customizations": []
+      },
+      {
+        "uuid": "c9914ffc-a002-4e62-9018-3e394d9a8b95",
+        "name": "Korean BBQ Pizza",
+        "description": "Asian gochujang sauce, mozzarella cheese, green onions, yellow onion, red peppers, and beef Philly steak.",
+        "priceFormatted": "$21.99",
+        "priceDollars": 21.99,
+        "priceCents": 2199,
+        "isAvailable": true,
+        "isSoldOut": false,
+        "hasCustomizations": true,
+        "imageUrl": "https://tb-static.uber.com/prod/merchant-menu-ai/images/f31d6057-636c-48f3-9a13-d4c1078e79f1_c9914ffc-a002-4e62-9018-3e394d9a8b95.jpeg",
+        "localImage": {
+          "filename": "korean-bbq-pizza.jpeg",
+          "relativePath": "assets/menu/korean-bbq-pizza.jpeg",
+          "width": 550,
+          "height": 443,
+          "format": "jpeg",
+          "sizeBytes": 50027
+        },
+        "endorsement": {
+          "endorsementType": "ratings",
+          "ratingPercentage": "100%",
+          "reviewCount": 13,
+          "badges": [],
+          "allTags": [
+            "100% (13)"
+          ]
+        },
+        "customizations": [
+          {
+            "uuid": "c442389a-fa9d-4b80-96aa-3ecc934db192",
+            "title": "Choose your size",
+            "minPermitted": 1,
+            "maxPermitted": 1,
+            "options": [
+              {
+                "uuid": "a4b7931a-126c-443e-9ea5-74025168c2e4",
+                "title": "Large 14\"",
+                "priceCents": 0,
+                "priceDollars": 0.0,
+                "priceFormatted": "$0.00",
+                "isSoldOut": false
+              },
+              {
+                "uuid": "392e4e48-6bc5-4c61-b080-6c58b7d7fef0",
+                "title": "Extra Large 16\"",
+                "priceCents": 299,
+                "priceDollars": 2.99,
+                "priceFormatted": "$2.99",
+                "isSoldOut": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "uuid": "c34bb8e5-ca3d-4f2a-aca2-9d320d3f82c1",
+        "name": "Domi Pizza",
+        "description": "Pizza sauce, sweet plantains, mozzarella cheese, guava sauce, cheddar cheese, salami, and fried cheese.",
+        "priceFormatted": "$21.99",
+        "priceDollars": 21.99,
+        "priceCents": 2199,
+        "isAvailable": true,
+        "isSoldOut": false,
+        "hasCustomizations": true,
+        "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/47746ef2ee06e730fa44932e6a452e29/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+        "localImage": {
+          "filename": "domi-pizza.jpeg",
+          "relativePath": "assets/menu/domi-pizza.jpeg",
+          "width": 358,
+          "height": 368,
+          "format": "jpeg",
+          "sizeBytes": 27837
+        },
+        "endorsement": {
+          "endorsementType": "ratings",
+          "ratingPercentage": "94%",
+          "reviewCount": 19,
+          "badges": [],
+          "allTags": [
+            "94% (19)"
+          ]
+        },
+        "customizations": [
+          {
+            "uuid": "b835a6e1-eba8-42a9-9ef4-2fb40a85b373",
+            "title": "Choose your size",
+            "minPermitted": 1,
+            "maxPermitted": 1,
+            "options": [
+              {
+                "uuid": "a4b7931a-126c-443e-9ea5-74025168c2e4",
+                "title": "Large 14\"",
+                "priceCents": 0,
+                "priceDollars": 0.0,
+                "priceFormatted": "$0.00",
+                "isSoldOut": false
+              },
+              {
+                "uuid": "392e4e48-6bc5-4c61-b080-6c58b7d7fef0",
+                "title": "Extra Large 16\"",
+                "priceCents": 299,
+                "priceDollars": 2.99,
+                "priceFormatted": "$2.99",
+                "isSoldOut": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "uuid": "0a3eb476-ad93-4adb-8d5d-f041f251b080",
+        "name": "Urban Cheese Calzone",
+        "description": "Mozzarella, Parmesan, and ricotta cheese",
+        "priceFormatted": "$14.99",
+        "priceDollars": 14.99,
+        "priceCents": 1499,
+        "isAvailable": true,
+        "isSoldOut": false,
+        "hasCustomizations": true,
+        "imageUrl": "https://tb-static.uber.com/prod/merchant-menu-ai/images/f31d6057-636c-48f3-9a13-d4c1078e79f1_0a3eb476-ad93-4adb-8d5d-f041f251b080.jpeg",
+        "localImage": {
+          "filename": "urban-cheese-calzone.jpeg",
+          "relativePath": "assets/menu/urban-cheese-calzone.jpeg",
+          "width": 733,
+          "height": 440,
+          "format": "jpeg",
+          "sizeBytes": 72145
+        },
+        "endorsement": {
+          "endorsementType": "ratings",
+          "ratingPercentage": "75%",
+          "reviewCount": 8,
+          "badges": [],
+          "allTags": [
+            "75% (8)"
+          ]
+        },
+        "customizations": [
+          {
+            "uuid": "79886298-6474-4e02-a519-acb515e4a376",
+            "title": "Calzone Toppings",
+            "minPermitted": 0,
+            "maxPermitted": 12,
+            "options": [
+              {
+                "uuid": "ac0421ed-2a2b-461c-af9b-e288c80710ef",
+                "title": "Pepperoni",
+                "priceCents": 150,
+                "priceDollars": 1.5,
+                "priceFormatted": "$1.50",
+                "isSoldOut": false
+              },
+              {
+                "uuid": "d62a2764-eebd-4818-a086-ee06a1cf4bab",
+                "title": "Chorizo",
+                "priceCents": 150,
+                "priceDollars": 1.5,
+                "priceFormatted": "$1.50",
+                "isSoldOut": false
+              },
+              {
+                "uuid": "3e430e26-d9d6-4b90-b5c1-343e93117405",
+                "title": "Bacon",
+                "priceCents": 150,
+                "priceDollars": 1.5,
+                "priceFormatted": "$1.50",
+                "isSoldOut": false
+              },
+              {
+                "uuid": "4cba54fb-786e-43ae-ab57-f0023bdaafd3",
+                "title": "Sausage",
+                "priceCents": 150,
+                "priceDollars": 1.5,
+                "priceFormatted": "$1.50",
+                "isSoldOut": false
+              },
+              {
+                "uuid": "62be1a39-9509-4dac-9310-35e2cb0c9ab8",
+                "title": "Ham",
+                "priceCents": 150,
+                "priceDollars": 1.5,
+                "priceFormatted": "$1.50",
+                "isSoldOut": false
+              },
+              {
+                "uuid": "72429c14-ad2d-4520-8921-4da26532da4b",
+                "title": "Peppers",
+                "priceCents": 150,
+                "priceDollars": 1.5,
+                "priceFormatted": "$1.50",
+                "isSoldOut": false
+              },
+              {
+                "uuid": "a27ce213-94c8-4e74-a21e-c9afc012cc76",
+                "title": "Onions",
+                "priceCents": 150,
+                "priceDollars": 1.5,
+                "priceFormatted": "$1.50",
+                "isSoldOut": false
+              },
+              {
+                "uuid": "8ab221c7-0519-4a8d-b5d5-cd80fbd69cbe",
+                "title": "Banana Peppers",
+                "priceCents": 150,
+                "priceDollars": 1.5,
+                "priceFormatted": "$1.50",
+                "isSoldOut": false
+              },
+              {
+                "uuid": "05b63608-1cd4-4523-9524-66d27496d638",
+                "title": "Jalapenos",
+                "priceCents": 150,
+                "priceDollars": 1.5,
+                "priceFormatted": "$1.50",
+                "isSoldOut": false
+              },
+              {
+                "uuid": "907de038-6c63-4eea-bd69-0efa1797f146",
+                "title": "Mushroom",
+                "priceCents": 150,
+                "priceDollars": 1.5,
+                "priceFormatted": "$1.50",
+                "isSoldOut": false
+              },
+              {
+                "uuid": "0b3d5ba7-9342-42b1-894f-1160b6357bc7",
+                "title": "Black Olives",
+                "priceCents": 150,
+                "priceDollars": 1.5,
+                "priceFormatted": "$1.50",
+                "isSoldOut": false
+              },
+              {
+                "uuid": "d929752b-b5a0-46b1-9879-b0cbb71dfad6",
+                "title": "Olives",
+                "priceCents": 0,
+                "priceDollars": 0.0,
+                "priceFormatted": "$0.00",
+                "isSoldOut": false
+              },
+              {
+                "uuid": "ed4588d8-9a8f-45dc-b18e-8477a8658ed9",
+                "title": "Pineapple",
+                "priceCents": 150,
+                "priceDollars": 1.5,
+                "priceFormatted": "$1.50",
+                "isSoldOut": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "uuid": "a044923e-f77d-40c7-a81c-8ca9aa403b2e",
+        "name": "Hawaiian Pizza",
+        "description": "Pizza sauce, mozzarella cheese, Ham, Bacon, and pineapple.",
+        "priceFormatted": "$21.99",
+        "priceDollars": 21.99,
+        "priceCents": 2199,
+        "isAvailable": true,
+        "isSoldOut": false,
+        "hasCustomizations": true,
+        "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/aae80479755e55270f3f858a3a6dac43/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+        "localImage": {
+          "filename": "hawaiian-pizza.jpeg",
+          "relativePath": "assets/menu/hawaiian-pizza.jpeg",
+          "width": 350,
+          "height": 338,
+          "format": "jpeg",
+          "sizeBytes": 33571
+        },
+        "endorsement": {
+          "endorsementType": "ratings",
+          "ratingPercentage": "92%",
+          "reviewCount": 14,
+          "badges": [],
+          "allTags": [
+            "92% (14)"
+          ]
+        },
+        "customizations": [
+          {
+            "uuid": "c442389a-fa9d-4b80-96aa-3ecc934db192",
+            "title": "Choose your size",
+            "minPermitted": 1,
+            "maxPermitted": 1,
+            "options": [
+              {
+                "uuid": "a4b7931a-126c-443e-9ea5-74025168c2e4",
+                "title": "Large 14\"",
+                "priceCents": 0,
+                "priceDollars": 0.0,
+                "priceFormatted": "$0.00",
+                "isSoldOut": false
+              },
+              {
+                "uuid": "392e4e48-6bc5-4c61-b080-6c58b7d7fef0",
+                "title": "Extra Large 16\"",
+                "priceCents": 299,
+                "priceDollars": 2.99,
+                "priceFormatted": "$2.99",
+                "isSoldOut": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "categories": [
+    {
+      "uuid": "fcc05257-bc0b-4d53-98c8-7f25cc7379a9",
+      "name": "Appetizers",
+      "itemCount": 12,
+      "items": [
+        {
+          "uuid": "47bee5d0-d94e-4f68-a64f-29d19ee8034e",
+          "name": "Wings (12 pcs)",
+          "description": "Tender and juicy chicken wings, perfect for snacking.",
+          "priceFormatted": "$22.99",
+          "priceDollars": 22.99,
+          "priceCents": 2299,
+          "isAvailable": true,
+          "isSoldOut": false,
+          "hasCustomizations": false,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/06725185978ead97c341309b366c6243/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "localImage": {
+            "filename": "wings-12-pcs.jpeg",
+            "relativePath": "assets/menu/wings-12-pcs.jpeg",
+            "width": 347,
+            "height": 370,
+            "format": "jpeg",
+            "sizeBytes": 31085
+          },
+          "endorsement": {
+            "endorsementType": "ratings",
+            "ratingPercentage": "83%",
+            "reviewCount": 18,
+            "badges": [],
+            "allTags": [
+              "83% (18)"
+            ]
+          },
+          "customizations": []
+        },
+        {
+          "uuid": "738660b9-f5f5-4f36-8ee4-a3d22d1a2bd6",
+          "name": "Garlic Knots (8 pcs)",
+          "description": "Soft, buttery knots infused with garlic.",
+          "priceFormatted": "$7.99",
+          "priceDollars": 7.99,
+          "priceCents": 799,
+          "isAvailable": true,
+          "isSoldOut": false,
+          "hasCustomizations": false,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ded7b44b0a6c9e6ae76236bec751a98e/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "localImage": {
+            "filename": "garlic-knots-8-pcs.jpeg",
+            "relativePath": "assets/menu/garlic-knots-8-pcs.jpeg",
+            "width": 350,
+            "height": 369,
+            "format": "jpeg",
+            "sizeBytes": 32234
+          },
+          "endorsement": {
+            "endorsementType": "ratings",
+            "ratingPercentage": "86%",
+            "reviewCount": 37,
+            "badges": [],
+            "allTags": [
+              "86% (37)"
+            ]
+          },
+          "customizations": []
+        },
+        {
+          "uuid": "9c7bc09d-c2e2-4a73-b17c-0459785397a1",
+          "name": "Loaded Fries",
+          "description": "Crunchy fries loaded with toppings.",
+          "priceFormatted": "$12.99",
+          "priceDollars": 12.99,
+          "priceCents": 1299,
+          "isAvailable": true,
+          "isSoldOut": false,
+          "hasCustomizations": false,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/69662dc63ad88a1d54ed90fe222e5669/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "localImage": {
+            "filename": "loaded-fries.jpeg",
+            "relativePath": "assets/menu/loaded-fries.jpeg",
+            "width": 351,
+            "height": 409,
+            "format": "jpeg",
+            "sizeBytes": 27874
+          },
+          "endorsement": {
+            "endorsementType": null,
+            "ratingPercentage": null,
+            "reviewCount": null,
+            "badges": [],
+            "allTags": []
+          },
+          "customizations": []
+        },
+        {
+          "uuid": "639c374b-8d89-4d46-bdad-61a771d82e2f",
+          "name": "6 Wings",
+          "description": "Tender and juicy chicken wings, perfect for snacking.",
+          "priceFormatted": "$11.99",
+          "priceDollars": 11.99,
+          "priceCents": 1199,
+          "isAvailable": true,
+          "isSoldOut": false,
+          "hasCustomizations": false,
+          "imageUrl": "https://tb-static.uber.com/prod/merchant-menu-ai/images/f31d6057-636c-48f3-9a13-d4c1078e79f1_639c374b-8d89-4d46-bdad-61a771d82e2f.jpeg",
+          "localImage": {
+            "filename": "6-wings.jpeg",
+            "relativePath": "assets/menu/6-wings.jpeg",
+            "width": 733,
+            "height": 440,
+            "format": "jpeg",
+            "sizeBytes": 58381
+          },
+          "endorsement": {
+            "endorsementType": "ratings",
+            "ratingPercentage": "100%",
+            "reviewCount": 6,
+            "badges": [],
+            "allTags": []
+          },
+          "customizations": []
+        },
+        {
+          "uuid": "277d9f25-08c0-45c5-8487-3b31b2bb0d2d",
+          "name": "Nonna's Meatballs",
+          "description": "Tender meatballs served with a rich flavor.",
+          "priceFormatted": "$7.99",
+          "priceDollars": 7.99,
+          "priceCents": 799,
+          "isAvailable": true,
+          "isSoldOut": false,
+          "hasCustomizations": false,
+          "imageUrl": null,
+          "localImage": null,
+          "endorsement": {
+            "endorsementType": "ratings",
+            "ratingPercentage": "80%",
+            "reviewCount": 5,
+            "badges": [],
+            "allTags": [
+              "80% (5)"
+            ]
+          },
+          "customizations": []
+        },
+        {
+          "uuid": "e39516b4-47da-4b9a-bc2d-ae822af60840",
+          "name": "Jamaican Beef Patty (2 pcs)",
+          "description": "Savoury beef patties with a Jamaican twist.",
+          "priceFormatted": "$8.99",
+          "priceDollars": 8.99,
+          "priceCents": 899,
+          "isAvailable": true,
+          "isSoldOut": false,
+          "hasCustomizations": false,
+          "imageUrl": null,
+          "localImage": null,
+          "endorsement": {
+            "endorsementType": null,
+            "ratingPercentage": null,
+            "reviewCount": null,
+            "badges": [],
+            "allTags": [
+              "Popular"
+            ]
+          },
+          "customizations": []
+        },
+        {
+          "uuid": "345627f7-e1f7-4b17-8fb6-a9c57c889526",
+          "name": "Grand Slam Meatballs with Cheese",
+          "description": "Juicy meatballs smothered in melted cheese.",
+          "priceFormatted": "$10.99",
+          "priceDollars": 10.99,
+          "priceCents": 1099,
+          "isAvailable": true,
+          "isSoldOut": false,
+          "hasCustomizations": false,
+          "imageUrl": null,
+          "localImage": null,
+          "endorsement": {
+            "endorsementType": null,
+            "ratingPercentage": null,
+            "reviewCount": null,
+            "badges": [],
+            "allTags": []
+          },
+          "customizations": []
+        },
+        {
+          "uuid": "02cd28b2-f308-40bc-850b-9410d6b75486",
+          "name": "Mozzarella Sticks (4)",
+          "description": "Crispy sticks filled with melted mozzarella cheese.",
+          "priceFormatted": "$7.99",
+          "priceDollars": 7.99,
+          "priceCents": 799,
+          "isAvailable": true,
+          "isSoldOut": false,
+          "hasCustomizations": false,
+          "imageUrl": null,
+          "localImage": null,
+          "endorsement": {
+            "endorsementType": "ratings",
+            "ratingPercentage": "90%",
+            "reviewCount": 10,
+            "badges": [],
+            "allTags": [
+              "90% (10)"
+            ]
+          },
+          "customizations": []
+        },
+        {
+          "uuid": "757611f3-5f33-48af-a0f8-18ffb8ebadaf",
+          "name": "Cheesy Garlic Knots (8)",
+          "description": "Soft, buttery knots infused with garlic and melted cheese.",
+          "priceFormatted": "$8.99",
+          "priceDollars": 8.99,
+          "priceCents": 899,
+          "isAvailable": true,
+          "isSoldOut": false,
+          "hasCustomizations": false,
+          "imageUrl": null,
+          "localImage": null,
+          "endorsement": {
+            "endorsementType": "ratings",
+            "ratingPercentage": "66%",
+            "reviewCount": 9,
+            "badges": [],
+            "allTags": []
+          },
+          "customizations": []
+        },
+        {
+          "uuid": "12484e45-8264-4425-871f-3907df7788eb",
+          "name": "Nono Crazy Tostones (6)",
+          "description": "Nono Crazy Tostones: (6) fried green plantain with cheese sauce and chorizo.",
+          "priceFormatted": "$16.99",
+          "priceDollars": 16.99,
+          "priceCents": 1699,
+          "isAvailable": true,
+          "isSoldOut": false,
+          "hasCustomizations": false,
+          "imageUrl": null,
+          "localImage": null,
+          "endorsement": {
+            "endorsementType": null,
+            "ratingPercentage": null,
+            "reviewCount": null,
+            "badges": [],
+            "allTags": [
+              "Popular"
+            ]
+          },
+          "customizations": []
+        },
+        {
+          "uuid": "7f7cc8b5-9551-4fc3-a117-918836ac7dba",
+          "name": "6 Wings with Tostones",
+          "description": "Tender and juicy chicken wings, perfect for snacking, serve with fried green plantain.",
+          "priceFormatted": "$16.99",
+          "priceDollars": 16.99,
+          "priceCents": 1699,
+          "isAvailable": true,
+          "isSoldOut": false,
+          "hasCustomizations": false,
+          "imageUrl": null,
+          "localImage": null,
+          "endorsement": {
+            "endorsementType": null,
+            "ratingPercentage": null,
+            "reviewCount": null,
+            "badges": [],
+            "allTags": [
+              "Popular"
+            ]
+          },
+          "customizations": []
+        },
+        {
+          "uuid": "ec4b9e90-776a-4a2b-9ee4-ec1d0e63428b",
+          "name": "Nono Sampler",
+          "description": "A delicious mix of (6) mini pizza empanadas, (6) mini cornmeal sticks, and (6) mini chicken cordon bleu bites. Served with marinara dipping sauce for the empanadas and cordon bleu, and classic mayo-ketchup for the cornmeal sticks.",
+          "priceFormatted": "$16.99",
+          "priceDollars": 16.99,
+          "priceCents": 1699,
+          "isAvailable": true,
+          "isSoldOut": false,
+          "hasCustomizations": false,
+          "imageUrl": null,
+          "localImage": null,
+          "endorsement": {
+            "endorsementType": null,
+            "ratingPercentage": null,
+            "reviewCount": null,
+            "badges": [],
+            "allTags": []
+          },
+          "customizations": []
+        }
+      ]
+    },
+    {
+      "uuid": "ca4834f6-1e36-4dc5-840f-801153841c74",
+      "name": "Subs",
+      "itemCount": 4,
+      "items": [
+        {
+          "uuid": "9da32cb4-c1d7-41ea-b93d-977d523e33f9",
+          "name": "Chicken Parmesan Sub",
+          "description": "Breaded and topped with melted mozzarella cheese.",
+          "priceFormatted": "$15.99",
+          "priceDollars": 15.99,
+          "priceCents": 1599,
+          "isAvailable": true,
+          "isSoldOut": false,
+          "hasCustomizations": false,
+          "imageUrl": null,
+          "localImage": null,
+          "endorsement": {
+            "endorsementType": "ratings",
+            "ratingPercentage": "100%",
+            "reviewCount": 3,
+            "badges": [],
+            "allTags": [
+              "100% (3)"
+            ]
+          },
+          "customizations": []
+        },
+        {
+          "uuid": "9b0db5a7-4de8-4804-8c11-ddbfa6137d39",
+          "name": "Philly Cheese Steak Sub",
+          "description": "Thinly sliced steak and melted cheese on a sub roll.",
+          "priceFormatted": "$15.99",
+          "priceDollars": 15.99,
+          "priceCents": 1599,
+          "isAvailable": true,
+          "isSoldOut": false,
+          "hasCustomizations": false,
+          "imageUrl": null,
+          "localImage": null,
+          "endorsement": {
+            "endorsementType": null,
+            "ratingPercentage": null,
+            "reviewCount": null,
+            "badges": [],
+            "allTags": [
+              "Popular"
+            ]
+          },
+          "customizations": []
+        },
+        {
+          "uuid": "2a105f07-e208-465f-82e8-8007b4a7d1d1",
+          "name": "Buffalo Chicken Sub",
+          "description": "Spicy chicken in a crispy sub roll.",
+          "priceFormatted": "$13.99",
+          "priceDollars": 13.99,
+          "priceCents": 1399,
+          "isAvailable": true,
+          "isSoldOut": false,
+          "hasCustomizations": false,
+          "imageUrl": null,
+          "localImage": null,
+          "endorsement": {
+            "endorsementType": null,
+            "ratingPercentage": null,
+            "reviewCount": null,
+            "badges": [],
+            "allTags": []
+          },
+          "customizations": []
+        },
+        {
+          "uuid": "d803f4a5-09c9-4ac3-aff1-ed4d1e471be3",
+          "name": "Meatball and Ricotta Sub",
+          "description": "Tender meatballs and creamy ricotta in a sub.",
+          "priceFormatted": "$10.99",
+          "priceDollars": 10.99,
+          "priceCents": 1099,
+          "isAvailable": true,
+          "isSoldOut": false,
+          "hasCustomizations": false,
+          "imageUrl": null,
+          "localImage": null,
+          "endorsement": {
+            "endorsementType": null,
+            "ratingPercentage": null,
+            "reviewCount": null,
+            "badges": [],
+            "allTags": [
+              "Popular"
+            ]
+          },
+          "customizations": []
+        }
+      ]
+    },
+    {
+      "uuid": "e262bf26-4c79-4954-a6a6-bdc4e12a202e",
+      "name": "Pizza",
+      "itemCount": 17,
+      "items": [
+        {
+          "uuid": "f993855c-fd34-41d8-a62c-544613a3e133",
+          "name": "Extra Large Cheese Pizza 16\"",
+          "description": "A generous serving of melted cheese on a 16-inch pizza crust.",
+          "priceFormatted": "$21.99",
+          "priceDollars": 21.99,
+          "priceCents": 2199,
+          "isAvailable": true,
+          "isSoldOut": false,
+          "hasCustomizations": true,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/13ced0a1c2d56a86dc3b4183839d0a9a/3093d07d5a810674a6d7adf26679874b.jpeg",
+          "localImage": {
+            "filename": "extra-large-cheese-pizza-16in.jpeg",
+            "relativePath": "assets/menu/extra-large-cheese-pizza-16in.jpeg",
+            "width": 582,
+            "height": 440,
+            "format": "jpeg",
+            "sizeBytes": 48090
+          },
+          "endorsement": {
+            "endorsementType": "ratings",
+            "ratingPercentage": "90%",
+            "reviewCount": 30,
+            "badges": [
+              "#1 most liked"
+            ],
+            "allTags": [
+              "#1 most liked",
+              "90% (30)"
+            ]
+          },
+          "customizations": [
+            {
+              "uuid": "b103f243-5eaf-4c2a-be6a-32995d8f25d9",
+              "title": "Choice of add on - Cheese Pizza X-Large",
+              "minPermitted": 0,
+              "maxPermitted": 5,
+              "options": [
+                {
+                  "uuid": "3e430e26-d9d6-4b90-b5c1-343e93117405",
+                  "title": "Bacon",
+                  "priceCents": 150,
+                  "priceDollars": 1.5,
+                  "priceFormatted": "$1.50",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "ac0421ed-2a2b-461c-af9b-e288c80710ef",
+                  "title": "Pepperoni",
+                  "priceCents": 150,
+                  "priceDollars": 1.5,
+                  "priceFormatted": "$1.50",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "4cba54fb-786e-43ae-ab57-f0023bdaafd3",
+                  "title": "Sausage",
+                  "priceCents": 150,
+                  "priceDollars": 1.5,
+                  "priceFormatted": "$1.50",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "62be1a39-9509-4dac-9310-35e2cb0c9ab8",
+                  "title": "Ham",
+                  "priceCents": 150,
+                  "priceDollars": 1.5,
+                  "priceFormatted": "$1.50",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "eca9fdf8-a460-445a-82d0-5353cf12f5ec",
+                  "title": "Peppers",
+                  "priceCents": 399,
+                  "priceDollars": 3.99,
+                  "priceFormatted": "$3.99",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "a27ce213-94c8-4e74-a21e-c9afc012cc76",
+                  "title": "Onions",
+                  "priceCents": 150,
+                  "priceDollars": 1.5,
+                  "priceFormatted": "$1.50",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "d28c3dbe-d36f-4191-bf7b-31273affc9f2",
+                  "title": "Banana",
+                  "priceCents": 399,
+                  "priceDollars": 3.99,
+                  "priceFormatted": "$3.99",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "05b63608-1cd4-4523-9524-66d27496d638",
+                  "title": "Jalapenos",
+                  "priceCents": 150,
+                  "priceDollars": 1.5,
+                  "priceFormatted": "$1.50",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "907de038-6c63-4eea-bd69-0efa1797f146",
+                  "title": "Mushroom",
+                  "priceCents": 150,
+                  "priceDollars": 1.5,
+                  "priceFormatted": "$1.50",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "b8492117-8ab8-4ed4-af8d-2e125335b170",
+                  "title": "Black Olves",
+                  "priceCents": 399,
+                  "priceDollars": 3.99,
+                  "priceFormatted": "$3.99",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "ed4588d8-9a8f-45dc-b18e-8477a8658ed9",
+                  "title": "Pineapple",
+                  "priceCents": 150,
+                  "priceDollars": 1.5,
+                  "priceFormatted": "$1.50",
+                  "isSoldOut": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uuid": "5378ea1b-60ef-4298-bb6a-7980b5f74441",
+          "name": "Pizza 1 Topping 14\" - Deals",
+          "description": "Classic 14\" pizza with one topping of your choice.",
+          "priceFormatted": "$20.79",
+          "priceDollars": 20.79,
+          "priceCents": 2079,
+          "isAvailable": true,
+          "isSoldOut": false,
+          "hasCustomizations": true,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5881d34ead862c6ee0d7426ceec38bcc/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "localImage": {
+            "filename": "pizza-1-topping-14in-deals.jpeg",
+            "relativePath": "assets/menu/pizza-1-topping-14in-deals.jpeg",
+            "width": 353,
+            "height": 320,
+            "format": "jpeg",
+            "sizeBytes": 30184
+          },
+          "endorsement": {
+            "endorsementType": "ratings",
+            "ratingPercentage": "85%",
+            "reviewCount": 20,
+            "badges": [
+              "#2 most liked"
+            ],
+            "allTags": [
+              "#2 most liked",
+              "85% (20)"
+            ]
+          },
+          "customizations": [
+            {
+              "uuid": "2509bf2b-ff66-4542-b12e-480852dc093b",
+              "title": "Pizza 1 topping",
+              "minPermitted": 1,
+              "maxPermitted": 1,
+              "options": [
+                {
+                  "uuid": "3e430e26-d9d6-4b90-b5c1-343e93117405",
+                  "title": "Bacon",
+                  "priceCents": 0,
+                  "priceDollars": 0.0,
+                  "priceFormatted": "$0.00",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "ac0421ed-2a2b-461c-af9b-e288c80710ef",
+                  "title": "Pepperoni",
+                  "priceCents": 0,
+                  "priceDollars": 0.0,
+                  "priceFormatted": "$0.00",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "4cba54fb-786e-43ae-ab57-f0023bdaafd3",
+                  "title": "Sausage",
+                  "priceCents": 0,
+                  "priceDollars": 0.0,
+                  "priceFormatted": "$0.00",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "62be1a39-9509-4dac-9310-35e2cb0c9ab8",
+                  "title": "Ham",
+                  "priceCents": 0,
+                  "priceDollars": 0.0,
+                  "priceFormatted": "$0.00",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "eca9fdf8-a460-445a-82d0-5353cf12f5ec",
+                  "title": "Peppers",
+                  "priceCents": 0,
+                  "priceDollars": 0.0,
+                  "priceFormatted": "$0.00",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "a27ce213-94c8-4e74-a21e-c9afc012cc76",
+                  "title": "Onions",
+                  "priceCents": 0,
+                  "priceDollars": 0.0,
+                  "priceFormatted": "$0.00",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "d28c3dbe-d36f-4191-bf7b-31273affc9f2",
+                  "title": "Banana",
+                  "priceCents": 0,
+                  "priceDollars": 0.0,
+                  "priceFormatted": "$0.00",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "05b63608-1cd4-4523-9524-66d27496d638",
+                  "title": "Jalapenos",
+                  "priceCents": 0,
+                  "priceDollars": 0.0,
+                  "priceFormatted": "$0.00",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "907de038-6c63-4eea-bd69-0efa1797f146",
+                  "title": "Mushroom",
+                  "priceCents": 0,
+                  "priceDollars": 0.0,
+                  "priceFormatted": "$0.00",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "b8492117-8ab8-4ed4-af8d-2e125335b170",
+                  "title": "Black Olves",
+                  "priceCents": 0,
+                  "priceDollars": 0.0,
+                  "priceFormatted": "$0.00",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "ed4588d8-9a8f-45dc-b18e-8477a8658ed9",
+                  "title": "Pineapple",
+                  "priceCents": 0,
+                  "priceDollars": 0.0,
+                  "priceFormatted": "$0.00",
+                  "isSoldOut": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uuid": "11c95e6a-3292-4a3b-81b5-f8a877f3ef81",
+          "name": "Tripleta Pizza",
+          "description": "Mozzarella cheese, ham, steak, pork, mayo ketchup, and potato sticks.",
+          "priceFormatted": "$22.99",
+          "priceDollars": 22.99,
+          "priceCents": 2299,
+          "isAvailable": true,
+          "isSoldOut": false,
+          "hasCustomizations": true,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7a74c64c21a776f6daa01adf707d62a3/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "localImage": {
+            "filename": "tripleta-pizza.jpeg",
+            "relativePath": "assets/menu/tripleta-pizza.jpeg",
+            "width": 333,
+            "height": 409,
+            "format": "jpeg",
+            "sizeBytes": 44242
+          },
+          "endorsement": {
+            "endorsementType": "ratings",
+            "ratingPercentage": "80%",
+            "reviewCount": 20,
+            "badges": [],
+            "allTags": [
+              "#3 most liked",
+              "80% (20)"
+            ]
+          },
+          "customizations": [
+            {
+              "uuid": "c442389a-fa9d-4b80-96aa-3ecc934db192",
+              "title": "Choose your size",
+              "minPermitted": 1,
+              "maxPermitted": 1,
+              "options": [
+                {
+                  "uuid": "a4b7931a-126c-443e-9ea5-74025168c2e4",
+                  "title": "Large 14\"",
+                  "priceCents": 0,
+                  "priceDollars": 0.0,
+                  "priceFormatted": "$0.00",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "392e4e48-6bc5-4c61-b080-6c58b7d7fef0",
+                  "title": "Extra Large 16\"",
+                  "priceCents": 299,
+                  "priceDollars": 2.99,
+                  "priceFormatted": "$2.99",
+                  "isSoldOut": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uuid": "7598a89d-16ea-4663-b5da-9e425609257d",
+          "name": "Meat Lover Pizza",
+          "description": "Pizza sauce, bacon, pepperoni, Italian sausage, and smoked ham.",
+          "priceFormatted": "$21.99",
+          "priceDollars": 21.99,
+          "priceCents": 2199,
+          "isAvailable": true,
+          "isSoldOut": false,
+          "hasCustomizations": true,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/eeeab986af1884063c5e8fb4538e902e/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "localImage": {
+            "filename": "meat-lover-pizza.jpeg",
+            "relativePath": "assets/menu/meat-lover-pizza.jpeg",
+            "width": 352,
+            "height": 347,
+            "format": "jpeg",
+            "sizeBytes": 29591
+          },
+          "endorsement": {
+            "endorsementType": "ratings",
+            "ratingPercentage": "88%",
+            "reviewCount": 17,
+            "badges": [],
+            "allTags": [
+              "88% (17)"
+            ]
+          },
+          "customizations": [
+            {
+              "uuid": "c442389a-fa9d-4b80-96aa-3ecc934db192",
+              "title": "Choose your size",
+              "minPermitted": 1,
+              "maxPermitted": 1,
+              "options": [
+                {
+                  "uuid": "a4b7931a-126c-443e-9ea5-74025168c2e4",
+                  "title": "Large 14\"",
+                  "priceCents": 0,
+                  "priceDollars": 0.0,
+                  "priceFormatted": "$0.00",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "392e4e48-6bc5-4c61-b080-6c58b7d7fef0",
+                  "title": "Extra Large 16\"",
+                  "priceCents": 299,
+                  "priceDollars": 2.99,
+                  "priceFormatted": "$2.99",
+                  "isSoldOut": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uuid": "4a310680-5291-4f01-a5fe-a4d6ffdf9184",
+          "name": "Margherita Pizza",
+          "description": "Marinara sauce, fresh basil, olive oil, and fresh mozzarella.",
+          "priceFormatted": "$23.99",
+          "priceDollars": 23.99,
+          "priceCents": 2399,
+          "isAvailable": true,
+          "isSoldOut": false,
+          "hasCustomizations": true,
+          "imageUrl": "https://tb-static.uber.com/prod/merchant-menu-ai/images/f31d6057-636c-48f3-9a13-d4c1078e79f1_4a310680-5291-4f01-a5fe-a4d6ffdf9184.jpeg",
+          "localImage": {
+            "filename": "margherita-pizza.jpeg",
+            "relativePath": "assets/menu/margherita-pizza.jpeg",
+            "width": 733,
+            "height": 440,
+            "format": "jpeg",
+            "sizeBytes": 55770
+          },
+          "endorsement": {
+            "endorsementType": "ratings",
+            "ratingPercentage": "77%",
+            "reviewCount": 18,
+            "badges": [],
+            "allTags": [
+              "77% (18)"
+            ]
+          },
+          "customizations": [
+            {
+              "uuid": "b835a6e1-eba8-42a9-9ef4-2fb40a85b373",
+              "title": "Choose your size",
+              "minPermitted": 1,
+              "maxPermitted": 1,
+              "options": [
+                {
+                  "uuid": "a4b7931a-126c-443e-9ea5-74025168c2e4",
+                  "title": "Large 14\"",
+                  "priceCents": 0,
+                  "priceDollars": 0.0,
+                  "priceFormatted": "$0.00",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "392e4e48-6bc5-4c61-b080-6c58b7d7fef0",
+                  "title": "Extra Large 16\"",
+                  "priceCents": 299,
+                  "priceDollars": 2.99,
+                  "priceFormatted": "$2.99",
+                  "isSoldOut": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uuid": "a044923e-f77d-40c7-a81c-8ca9aa403b2e",
+          "name": "Hawaiian Pizza",
+          "description": "Pizza sauce, mozzarella cheese, Ham, Bacon, and pineapple.",
+          "priceFormatted": "$21.99",
+          "priceDollars": 21.99,
+          "priceCents": 2199,
+          "isAvailable": true,
+          "isSoldOut": false,
+          "hasCustomizations": true,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/aae80479755e55270f3f858a3a6dac43/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "localImage": {
+            "filename": "hawaiian-pizza.jpeg",
+            "relativePath": "assets/menu/hawaiian-pizza.jpeg",
+            "width": 350,
+            "height": 338,
+            "format": "jpeg",
+            "sizeBytes": 33571
+          },
+          "endorsement": {
+            "endorsementType": "ratings",
+            "ratingPercentage": "92%",
+            "reviewCount": 14,
+            "badges": [],
+            "allTags": [
+              "92% (14)"
+            ]
+          },
+          "customizations": [
+            {
+              "uuid": "c442389a-fa9d-4b80-96aa-3ecc934db192",
+              "title": "Choose your size",
+              "minPermitted": 1,
+              "maxPermitted": 1,
+              "options": [
+                {
+                  "uuid": "a4b7931a-126c-443e-9ea5-74025168c2e4",
+                  "title": "Large 14\"",
+                  "priceCents": 0,
+                  "priceDollars": 0.0,
+                  "priceFormatted": "$0.00",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "392e4e48-6bc5-4c61-b080-6c58b7d7fef0",
+                  "title": "Extra Large 16\"",
+                  "priceCents": 299,
+                  "priceDollars": 2.99,
+                  "priceFormatted": "$2.99",
+                  "isSoldOut": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uuid": "c34bb8e5-ca3d-4f2a-aca2-9d320d3f82c1",
+          "name": "Domi Pizza",
+          "description": "Pizza sauce, sweet plantains, mozzarella cheese, guava sauce, cheddar cheese, salami, and fried cheese.",
+          "priceFormatted": "$21.99",
+          "priceDollars": 21.99,
+          "priceCents": 2199,
+          "isAvailable": true,
+          "isSoldOut": false,
+          "hasCustomizations": true,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/47746ef2ee06e730fa44932e6a452e29/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "localImage": {
+            "filename": "domi-pizza.jpeg",
+            "relativePath": "assets/menu/domi-pizza.jpeg",
+            "width": 358,
+            "height": 368,
+            "format": "jpeg",
+            "sizeBytes": 27837
+          },
+          "endorsement": {
+            "endorsementType": "ratings",
+            "ratingPercentage": "94%",
+            "reviewCount": 19,
+            "badges": [],
+            "allTags": [
+              "94% (19)"
+            ]
+          },
+          "customizations": [
+            {
+              "uuid": "b835a6e1-eba8-42a9-9ef4-2fb40a85b373",
+              "title": "Choose your size",
+              "minPermitted": 1,
+              "maxPermitted": 1,
+              "options": [
+                {
+                  "uuid": "a4b7931a-126c-443e-9ea5-74025168c2e4",
+                  "title": "Large 14\"",
+                  "priceCents": 0,
+                  "priceDollars": 0.0,
+                  "priceFormatted": "$0.00",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "392e4e48-6bc5-4c61-b080-6c58b7d7fef0",
+                  "title": "Extra Large 16\"",
+                  "priceCents": 299,
+                  "priceDollars": 2.99,
+                  "priceFormatted": "$2.99",
+                  "isSoldOut": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uuid": "b416b6be-98d0-4b20-b287-8f1e63cfb0fd",
+          "name": "Chama Pizza",
+          "description": "Pizza sauce, mozzarella cheese, whole kernel corn, and smoked honey ham.",
+          "priceFormatted": "$21.99",
+          "priceDollars": 21.99,
+          "priceCents": 2199,
+          "isAvailable": true,
+          "isSoldOut": false,
+          "hasCustomizations": true,
+          "imageUrl": "https://tb-static.uber.com/prod/merchant-menu-ai/images/f31d6057-636c-48f3-9a13-d4c1078e79f1_b416b6be-98d0-4b20-b287-8f1e63cfb0fd.jpeg",
+          "localImage": {
+            "filename": "chama-pizza.jpeg",
+            "relativePath": "assets/menu/chama-pizza.jpeg",
+            "width": 733,
+            "height": 440,
+            "format": "jpeg",
+            "sizeBytes": 68816
+          },
+          "endorsement": {
+            "endorsementType": "ratings",
+            "ratingPercentage": "100%",
+            "reviewCount": 17,
+            "badges": [],
+            "allTags": [
+              "100% (17)"
+            ]
+          },
+          "customizations": [
+            {
+              "uuid": "c442389a-fa9d-4b80-96aa-3ecc934db192",
+              "title": "Choose your size",
+              "minPermitted": 1,
+              "maxPermitted": 1,
+              "options": [
+                {
+                  "uuid": "a4b7931a-126c-443e-9ea5-74025168c2e4",
+                  "title": "Large 14\"",
+                  "priceCents": 0,
+                  "priceDollars": 0.0,
+                  "priceFormatted": "$0.00",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "392e4e48-6bc5-4c61-b080-6c58b7d7fef0",
+                  "title": "Extra Large 16\"",
+                  "priceCents": 299,
+                  "priceDollars": 2.99,
+                  "priceFormatted": "$2.99",
+                  "isSoldOut": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uuid": "3a9e25cd-c855-47ed-a168-30be98ba2424",
+          "name": "Buffalo Chicken Pizza",
+          "description": "Chicken breast, red onions, mozzarella cheese, buffalo sauce ranch dressing, bacon, and cheddar cheese.",
+          "priceFormatted": "$21.99",
+          "priceDollars": 21.99,
+          "priceCents": 2199,
+          "isAvailable": true,
+          "isSoldOut": false,
+          "hasCustomizations": true,
+          "imageUrl": "https://tb-static.uber.com/prod/merchant-menu-ai/images/f31d6057-636c-48f3-9a13-d4c1078e79f1_3a9e25cd-c855-47ed-a168-30be98ba2424.jpeg",
+          "localImage": {
+            "filename": "buffalo-chicken-pizza.jpeg",
+            "relativePath": "assets/menu/buffalo-chicken-pizza.jpeg",
+            "width": 733,
+            "height": 440,
+            "format": "jpeg",
+            "sizeBytes": 67557
+          },
+          "endorsement": {
+            "endorsementType": "ratings",
+            "ratingPercentage": "100%",
+            "reviewCount": 4,
+            "badges": [],
+            "allTags": [
+              "100% (4)"
+            ]
+          },
+          "customizations": [
+            {
+              "uuid": "c442389a-fa9d-4b80-96aa-3ecc934db192",
+              "title": "Choose your size",
+              "minPermitted": 1,
+              "maxPermitted": 1,
+              "options": [
+                {
+                  "uuid": "a4b7931a-126c-443e-9ea5-74025168c2e4",
+                  "title": "Large 14\"",
+                  "priceCents": 0,
+                  "priceDollars": 0.0,
+                  "priceFormatted": "$0.00",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "392e4e48-6bc5-4c61-b080-6c58b7d7fef0",
+                  "title": "Extra Large 16\"",
+                  "priceCents": 299,
+                  "priceDollars": 2.99,
+                  "priceFormatted": "$2.99",
+                  "isSoldOut": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uuid": "c9914ffc-a002-4e62-9018-3e394d9a8b95",
+          "name": "Korean BBQ Pizza",
+          "description": "Asian gochujang sauce, mozzarella cheese, green onions, yellow onion, red peppers, and beef Philly steak.",
+          "priceFormatted": "$21.99",
+          "priceDollars": 21.99,
+          "priceCents": 2199,
+          "isAvailable": true,
+          "isSoldOut": false,
+          "hasCustomizations": true,
+          "imageUrl": "https://tb-static.uber.com/prod/merchant-menu-ai/images/f31d6057-636c-48f3-9a13-d4c1078e79f1_c9914ffc-a002-4e62-9018-3e394d9a8b95.jpeg",
+          "localImage": {
+            "filename": "korean-bbq-pizza.jpeg",
+            "relativePath": "assets/menu/korean-bbq-pizza.jpeg",
+            "width": 550,
+            "height": 443,
+            "format": "jpeg",
+            "sizeBytes": 50027
+          },
+          "endorsement": {
+            "endorsementType": "ratings",
+            "ratingPercentage": "100%",
+            "reviewCount": 13,
+            "badges": [],
+            "allTags": [
+              "100% (13)"
+            ]
+          },
+          "customizations": [
+            {
+              "uuid": "c442389a-fa9d-4b80-96aa-3ecc934db192",
+              "title": "Choose your size",
+              "minPermitted": 1,
+              "maxPermitted": 1,
+              "options": [
+                {
+                  "uuid": "a4b7931a-126c-443e-9ea5-74025168c2e4",
+                  "title": "Large 14\"",
+                  "priceCents": 0,
+                  "priceDollars": 0.0,
+                  "priceFormatted": "$0.00",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "392e4e48-6bc5-4c61-b080-6c58b7d7fef0",
+                  "title": "Extra Large 16\"",
+                  "priceCents": 299,
+                  "priceDollars": 2.99,
+                  "priceFormatted": "$2.99",
+                  "isSoldOut": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uuid": "2db0c60a-25ed-490a-8939-c4fc089890e3",
+          "name": "Cheese Pizza 14\"",
+          "description": "Classic mozzarella cheese on a 14-inch pizza crust.",
+          "priceFormatted": "$20.99",
+          "priceDollars": 20.99,
+          "priceCents": 2099,
+          "isAvailable": true,
+          "isSoldOut": false,
+          "hasCustomizations": true,
+          "imageUrl": null,
+          "localImage": null,
+          "endorsement": {
+            "endorsementType": "ratings",
+            "ratingPercentage": "95%",
+            "reviewCount": 24,
+            "badges": [],
+            "allTags": [
+              "95% (24)"
+            ]
+          },
+          "customizations": [
+            {
+              "uuid": "fdb6b0e7-275d-4aeb-9376-3963bea96718",
+              "title": "Choice of add on - Cheese Pizza Reg",
+              "minPermitted": 0,
+              "maxPermitted": 5,
+              "options": [
+                {
+                  "uuid": "3e430e26-d9d6-4b90-b5c1-343e93117405",
+                  "title": "Bacon",
+                  "priceCents": 299,
+                  "priceDollars": 2.99,
+                  "priceFormatted": "$2.99",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "ac0421ed-2a2b-461c-af9b-e288c80710ef",
+                  "title": "Pepperoni",
+                  "priceCents": 299,
+                  "priceDollars": 2.99,
+                  "priceFormatted": "$2.99",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "4cba54fb-786e-43ae-ab57-f0023bdaafd3",
+                  "title": "Sausage",
+                  "priceCents": 299,
+                  "priceDollars": 2.99,
+                  "priceFormatted": "$2.99",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "62be1a39-9509-4dac-9310-35e2cb0c9ab8",
+                  "title": "Ham",
+                  "priceCents": 299,
+                  "priceDollars": 2.99,
+                  "priceFormatted": "$2.99",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "eca9fdf8-a460-445a-82d0-5353cf12f5ec",
+                  "title": "Peppers",
+                  "priceCents": 299,
+                  "priceDollars": 2.99,
+                  "priceFormatted": "$2.99",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "a27ce213-94c8-4e74-a21e-c9afc012cc76",
+                  "title": "Onions",
+                  "priceCents": 299,
+                  "priceDollars": 2.99,
+                  "priceFormatted": "$2.99",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "d28c3dbe-d36f-4191-bf7b-31273affc9f2",
+                  "title": "Banana",
+                  "priceCents": 299,
+                  "priceDollars": 2.99,
+                  "priceFormatted": "$2.99",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "05b63608-1cd4-4523-9524-66d27496d638",
+                  "title": "Jalapenos",
+                  "priceCents": 299,
+                  "priceDollars": 2.99,
+                  "priceFormatted": "$2.99",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "907de038-6c63-4eea-bd69-0efa1797f146",
+                  "title": "Mushroom",
+                  "priceCents": 299,
+                  "priceDollars": 2.99,
+                  "priceFormatted": "$2.99",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "b8492117-8ab8-4ed4-af8d-2e125335b170",
+                  "title": "Black Olves",
+                  "priceCents": 299,
+                  "priceDollars": 2.99,
+                  "priceFormatted": "$2.99",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "ed4588d8-9a8f-45dc-b18e-8477a8658ed9",
+                  "title": "Pineapple",
+                  "priceCents": 299,
+                  "priceDollars": 2.99,
+                  "priceFormatted": "$2.99",
+                  "isSoldOut": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uuid": "d371e9fe-5235-41cd-ad70-01fb45e634dc",
+          "name": "Cauliflower Crust Pizza",
+          "description": "Cauliflower pizza crust and pizza sauce mozzarella cheese.",
+          "priceFormatted": "$23.99",
+          "priceDollars": 23.99,
+          "priceCents": 2399,
+          "isAvailable": true,
+          "isSoldOut": false,
+          "hasCustomizations": true,
+          "imageUrl": null,
+          "localImage": null,
+          "endorsement": {
+            "endorsementType": "ratings",
+            "ratingPercentage": "100%",
+            "reviewCount": 7,
+            "badges": [],
+            "allTags": [
+              "100% (7)"
+            ]
+          },
+          "customizations": [
+            {
+              "uuid": "4dad050f-f43d-4550-9627-3590c9c8cc2f",
+              "title": "Choose your toppings",
+              "minPermitted": 0,
+              "maxPermitted": 12,
+              "options": [
+                {
+                  "uuid": "ac0421ed-2a2b-461c-af9b-e288c80710ef",
+                  "title": "Pepperoni",
+                  "priceCents": 299,
+                  "priceDollars": 2.99,
+                  "priceFormatted": "$2.99",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "d62a2764-eebd-4818-a086-ee06a1cf4bab",
+                  "title": "Chorizo",
+                  "priceCents": 399,
+                  "priceDollars": 3.99,
+                  "priceFormatted": "$3.99",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "3e430e26-d9d6-4b90-b5c1-343e93117405",
+                  "title": "Bacon",
+                  "priceCents": 299,
+                  "priceDollars": 2.99,
+                  "priceFormatted": "$2.99",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "4cba54fb-786e-43ae-ab57-f0023bdaafd3",
+                  "title": "Sausage",
+                  "priceCents": 299,
+                  "priceDollars": 2.99,
+                  "priceFormatted": "$2.99",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "62be1a39-9509-4dac-9310-35e2cb0c9ab8",
+                  "title": "Ham",
+                  "priceCents": 299,
+                  "priceDollars": 2.99,
+                  "priceFormatted": "$2.99",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "72429c14-ad2d-4520-8921-4da26532da4b",
+                  "title": "Peppers",
+                  "priceCents": 299,
+                  "priceDollars": 2.99,
+                  "priceFormatted": "$2.99",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "a27ce213-94c8-4e74-a21e-c9afc012cc76",
+                  "title": "Onions",
+                  "priceCents": 299,
+                  "priceDollars": 2.99,
+                  "priceFormatted": "$2.99",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "8ab221c7-0519-4a8d-b5d5-cd80fbd69cbe",
+                  "title": "Banana Peppers",
+                  "priceCents": 299,
+                  "priceDollars": 2.99,
+                  "priceFormatted": "$2.99",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "05b63608-1cd4-4523-9524-66d27496d638",
+                  "title": "Jalapenos",
+                  "priceCents": 299,
+                  "priceDollars": 2.99,
+                  "priceFormatted": "$2.99",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "907de038-6c63-4eea-bd69-0efa1797f146",
+                  "title": "Mushroom",
+                  "priceCents": 299,
+                  "priceDollars": 2.99,
+                  "priceFormatted": "$2.99",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "0b3d5ba7-9342-42b1-894f-1160b6357bc7",
+                  "title": "Black Olives",
+                  "priceCents": 299,
+                  "priceDollars": 2.99,
+                  "priceFormatted": "$2.99",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "d929752b-b5a0-46b1-9879-b0cbb71dfad6",
+                  "title": "Olives",
+                  "priceCents": 299,
+                  "priceDollars": 2.99,
+                  "priceFormatted": "$2.99",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "ed4588d8-9a8f-45dc-b18e-8477a8658ed9",
+                  "title": "Pineapple",
+                  "priceCents": 299,
+                  "priceDollars": 2.99,
+                  "priceFormatted": "$2.99",
+                  "isSoldOut": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uuid": "6d8ff090-ceec-4ec0-a31e-dcf365505562",
+          "name": "Bianca Pizza",
+          "description": "Ricotta cheese, olive oil, and garlic.",
+          "priceFormatted": "$21.99",
+          "priceDollars": 21.99,
+          "priceCents": 2199,
+          "isAvailable": true,
+          "isSoldOut": false,
+          "hasCustomizations": true,
+          "imageUrl": null,
+          "localImage": null,
+          "endorsement": {
+            "endorsementType": "ratings",
+            "ratingPercentage": "100%",
+            "reviewCount": 10,
+            "badges": [],
+            "allTags": [
+              "100% (10)"
+            ]
+          },
+          "customizations": [
+            {
+              "uuid": "b835a6e1-eba8-42a9-9ef4-2fb40a85b373",
+              "title": "Choose your size",
+              "minPermitted": 1,
+              "maxPermitted": 1,
+              "options": [
+                {
+                  "uuid": "a4b7931a-126c-443e-9ea5-74025168c2e4",
+                  "title": "Large 14\"",
+                  "priceCents": 0,
+                  "priceDollars": 0.0,
+                  "priceFormatted": "$0.00",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "392e4e48-6bc5-4c61-b080-6c58b7d7fef0",
+                  "title": "Extra Large 16\"",
+                  "priceCents": 299,
+                  "priceDollars": 2.99,
+                  "priceFormatted": "$2.99",
+                  "isSoldOut": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uuid": "d63264bb-01ef-4fdd-962a-f7e5d00b550c",
+          "name": "Veggie Pizza",
+          "description": "Pizza sauce, onions, mixed peppers, black olives, and mushrooms.",
+          "priceFormatted": "$23.99",
+          "priceDollars": 23.99,
+          "priceCents": 2399,
+          "isAvailable": true,
+          "isSoldOut": false,
+          "hasCustomizations": true,
+          "imageUrl": null,
+          "localImage": null,
+          "endorsement": {
+            "endorsementType": null,
+            "ratingPercentage": null,
+            "reviewCount": null,
+            "badges": [],
+            "allTags": []
+          },
+          "customizations": [
+            {
+              "uuid": "b835a6e1-eba8-42a9-9ef4-2fb40a85b373",
+              "title": "Choose your size",
+              "minPermitted": 1,
+              "maxPermitted": 1,
+              "options": [
+                {
+                  "uuid": "a4b7931a-126c-443e-9ea5-74025168c2e4",
+                  "title": "Large 14\"",
+                  "priceCents": 0,
+                  "priceDollars": 0.0,
+                  "priceFormatted": "$0.00",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "392e4e48-6bc5-4c61-b080-6c58b7d7fef0",
+                  "title": "Extra Large 16\"",
+                  "priceCents": 299,
+                  "priceDollars": 2.99,
+                  "priceFormatted": "$2.99",
+                  "isSoldOut": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uuid": "912f21df-95c4-4c9a-a502-f8ca211b0c63",
+          "name": "La Jibara",
+          "description": "La Jibara Pizza contain: sweet plantain and steak",
+          "priceFormatted": "$24.99",
+          "priceDollars": 24.99,
+          "priceCents": 2499,
+          "isAvailable": true,
+          "isSoldOut": false,
+          "hasCustomizations": true,
+          "imageUrl": null,
+          "localImage": null,
+          "endorsement": {
+            "endorsementType": null,
+            "ratingPercentage": "75%",
+            "reviewCount": 4,
+            "badges": [],
+            "allTags": [
+              "75% (4)"
+            ]
+          },
+          "customizations": [
+            {
+              "uuid": "b835a6e1-eba8-42a9-9ef4-2fb40a85b373",
+              "title": "Choose your size",
+              "minPermitted": 1,
+              "maxPermitted": 1,
+              "options": [
+                {
+                  "uuid": "a4b7931a-126c-443e-9ea5-74025168c2e4",
+                  "title": "Large 14\"",
+                  "priceCents": 0,
+                  "priceDollars": 0.0,
+                  "priceFormatted": "$0.00",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "392e4e48-6bc5-4c61-b080-6c58b7d7fef0",
+                  "title": "Extra Large 16\"",
+                  "priceCents": 299,
+                  "priceDollars": 2.99,
+                  "priceFormatted": "$2.99",
+                  "isSoldOut": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uuid": "146a1169-52b3-41c4-b0d7-497cbf000b61",
+          "name": "Supreme Pizza",
+          "description": "Peperoni, sausage, mushrooms, onion and peppers",
+          "priceFormatted": "$21.99",
+          "priceDollars": 21.99,
+          "priceCents": 2199,
+          "isAvailable": true,
+          "isSoldOut": false,
+          "hasCustomizations": true,
+          "imageUrl": null,
+          "localImage": null,
+          "endorsement": {
+            "endorsementType": "ratings",
+            "ratingPercentage": "100%",
+            "reviewCount": 3,
+            "badges": [],
+            "allTags": [
+              "100% (3)"
+            ]
+          },
+          "customizations": [
+            {
+              "uuid": "b835a6e1-eba8-42a9-9ef4-2fb40a85b373",
+              "title": "Choose your size",
+              "minPermitted": 1,
+              "maxPermitted": 1,
+              "options": [
+                {
+                  "uuid": "a4b7931a-126c-443e-9ea5-74025168c2e4",
+                  "title": "Large 14\"",
+                  "priceCents": 0,
+                  "priceDollars": 0.0,
+                  "priceFormatted": "$0.00",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "392e4e48-6bc5-4c61-b080-6c58b7d7fef0",
+                  "title": "Extra Large 16\"",
+                  "priceCents": 299,
+                  "priceDollars": 2.99,
+                  "priceFormatted": "$2.99",
+                  "isSoldOut": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uuid": "c81660f8-c8fa-4c56-bfa9-d32e524a4b2c",
+          "name": "Chorizo Pizza",
+          "description": "Spicy Spanish sausage on a bed of melted mozzarella cheese.",
+          "priceFormatted": "$21.99",
+          "priceDollars": 21.99,
+          "priceCents": 2199,
+          "isAvailable": true,
+          "isSoldOut": false,
+          "hasCustomizations": true,
+          "imageUrl": null,
+          "localImage": null,
+          "endorsement": {
+            "endorsementType": "ratings",
+            "ratingPercentage": "90%",
+            "reviewCount": 10,
+            "badges": [],
+            "allTags": [
+              "90% (10)"
+            ]
+          },
+          "customizations": [
+            {
+              "uuid": "b835a6e1-eba8-42a9-9ef4-2fb40a85b373",
+              "title": "Choose your size",
+              "minPermitted": 1,
+              "maxPermitted": 1,
+              "options": [
+                {
+                  "uuid": "a4b7931a-126c-443e-9ea5-74025168c2e4",
+                  "title": "Large 14\"",
+                  "priceCents": 0,
+                  "priceDollars": 0.0,
+                  "priceFormatted": "$0.00",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "392e4e48-6bc5-4c61-b080-6c58b7d7fef0",
+                  "title": "Extra Large 16\"",
+                  "priceCents": 299,
+                  "priceDollars": 2.99,
+                  "priceFormatted": "$2.99",
+                  "isSoldOut": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uuid": "509c146a-49a4-4f2b-b4b2-825dad3b65fa",
+      "name": "Pasta",
+      "itemCount": 8,
+      "items": [
+        {
+          "uuid": "8eb38d9c-78af-4050-b9a7-92209c16fb51",
+          "name": "Spaghetti W/Meatballs",
+          "description": "Tender meatballs served with spaghetti.",
+          "priceFormatted": "$15.99",
+          "priceDollars": 15.99,
+          "priceCents": 1599,
+          "isAvailable": true,
+          "isSoldOut": false,
+          "hasCustomizations": false,
+          "imageUrl": "https://tb-static.uber.com/prod/merchant-menu-ai/images/f31d6057-636c-48f3-9a13-d4c1078e79f1_8eb38d9c-78af-4050-b9a7-92209c16fb51.jpeg",
+          "localImage": {
+            "filename": "spaghetti-w-meatballs.jpeg",
+            "relativePath": "assets/menu/spaghetti-w-meatballs.jpeg",
+            "width": 733,
+            "height": 440,
+            "format": "jpeg",
+            "sizeBytes": 63092
+          },
+          "endorsement": {
+            "endorsementType": null,
+            "ratingPercentage": null,
+            "reviewCount": null,
+            "badges": [],
+            "allTags": [
+              "Popular"
+            ]
+          },
+          "customizations": []
+        },
+        {
+          "uuid": "75cdfed6-36a2-4fa1-9741-41b31dea39d7",
+          "name": "Bake Spaghetti W/Meatballs",
+          "description": "Spaghetti baked with meatballs.",
+          "priceFormatted": "$16.99",
+          "priceDollars": 16.99,
+          "priceCents": 1699,
+          "isAvailable": true,
+          "isSoldOut": false,
+          "hasCustomizations": false,
+          "imageUrl": "https://tb-static.uber.com/prod/merchant-menu-ai/images/f31d6057-636c-48f3-9a13-d4c1078e79f1_75cdfed6-36a2-4fa1-9741-41b31dea39d7.jpeg",
+          "localImage": {
+            "filename": "bake-spaghetti-w-meatballs.jpeg",
+            "relativePath": "assets/menu/bake-spaghetti-w-meatballs.jpeg",
+            "width": 733,
+            "height": 440,
+            "format": "jpeg",
+            "sizeBytes": 63092
+          },
+          "endorsement": {
+            "endorsementType": null,
+            "ratingPercentage": null,
+            "reviewCount": null,
+            "badges": [],
+            "allTags": []
+          },
+          "customizations": []
+        },
+        {
+          "uuid": "9288c681-4bfd-44ab-8210-6d316a5f938f",
+          "name": "Spaghetti W/marinara Sauce",
+          "description": "Classic Italian-style pasta dish with marinara sauce.",
+          "priceFormatted": "$11.99",
+          "priceDollars": 11.99,
+          "priceCents": 1199,
+          "isAvailable": true,
+          "isSoldOut": false,
+          "hasCustomizations": false,
+          "imageUrl": null,
+          "localImage": null,
+          "endorsement": {
+            "endorsementType": null,
+            "ratingPercentage": null,
+            "reviewCount": null,
+            "badges": [],
+            "allTags": []
+          },
+          "customizations": []
+        },
+        {
+          "uuid": "e4acf966-0256-4b2d-9e8c-776bbe85a712",
+          "name": "Spaghetti Carbonara W/Chicken",
+          "description": "Tender chicken and spaghetti in a rich, creamy sauce.",
+          "priceFormatted": "$17.99",
+          "priceDollars": 17.99,
+          "priceCents": 1799,
+          "isAvailable": true,
+          "isSoldOut": false,
+          "hasCustomizations": false,
+          "imageUrl": null,
+          "localImage": null,
+          "endorsement": {
+            "endorsementType": null,
+            "ratingPercentage": null,
+            "reviewCount": null,
+            "badges": [],
+            "allTags": []
+          },
+          "customizations": []
+        },
+        {
+          "uuid": "c7c2092c-48c4-4bd3-8cea-76795de6cc3b",
+          "name": "Chicken Alfredo PAsta",
+          "description": "Fettuccine pasta tossed in a rich and creamy Alfredo sauce with chicken.",
+          "priceFormatted": "$18.99",
+          "priceDollars": 18.99,
+          "priceCents": 1899,
+          "isAvailable": true,
+          "isSoldOut": false,
+          "hasCustomizations": false,
+          "imageUrl": null,
+          "localImage": null,
+          "endorsement": {
+            "endorsementType": "most_liked",
+            "ratingPercentage": null,
+            "reviewCount": null,
+            "badges": [],
+            "allTags": [
+              "Popular"
+            ]
+          },
+          "customizations": []
+        },
+        {
+          "uuid": "0df35c42-1c56-43d0-a15c-5cafe1e6e059",
+          "name": "Meat Lasagna W/Sweet Plantain",
+          "description": "Tender meat layered with sweet plantain in a rich lasagna.",
+          "priceFormatted": "$13.99",
+          "priceDollars": 13.99,
+          "priceCents": 1399,
+          "isAvailable": true,
+          "isSoldOut": false,
+          "hasCustomizations": false,
+          "imageUrl": null,
+          "localImage": null,
+          "endorsement": {
+            "endorsementType": "ratings",
+            "ratingPercentage": "100%",
+            "reviewCount": 3,
+            "badges": [],
+            "allTags": [
+              "100% (3)"
+            ]
+          },
+          "customizations": []
+        },
+        {
+          "uuid": "327c1ece-0294-4898-8fc6-549460f0d53d",
+          "name": "Meat Lasagna",
+          "description": "Layered pasta with meat and rich flavors.",
+          "priceFormatted": "$13.99",
+          "priceDollars": 13.99,
+          "priceCents": 1399,
+          "isAvailable": true,
+          "isSoldOut": false,
+          "hasCustomizations": false,
+          "imageUrl": null,
+          "localImage": null,
+          "endorsement": {
+            "endorsementType": null,
+            "ratingPercentage": null,
+            "reviewCount": null,
+            "badges": [],
+            "allTags": []
+          },
+          "customizations": []
+        },
+        {
+          "uuid": "cdfc0960-f430-46d7-afc3-f773f776fbd6",
+          "name": "Chicken Milanesa with Tostones",
+          "description": "Crispy breaded chicken cutlet served with golden fried plantains — a perfect blend of crunch and flavor.",
+          "priceFormatted": "$19.50",
+          "priceDollars": 19.5,
+          "priceCents": 1950,
+          "isAvailable": true,
+          "isSoldOut": false,
+          "hasCustomizations": false,
+          "imageUrl": null,
+          "localImage": null,
+          "endorsement": {
+            "endorsementType": null,
+            "ratingPercentage": null,
+            "reviewCount": null,
+            "badges": [],
+            "allTags": []
+          },
+          "customizations": []
+        }
+      ]
+    },
+    {
+      "uuid": "616111ab-d17f-4e10-8770-643da29fbec3",
+      "name": "Calzones",
+      "itemCount": 4,
+      "items": [
+        {
+          "uuid": "0a3eb476-ad93-4adb-8d5d-f041f251b080",
+          "name": "Urban Cheese Calzone",
+          "description": "Mozzarella, Parmesan, and ricotta cheese",
+          "priceFormatted": "$14.99",
+          "priceDollars": 14.99,
+          "priceCents": 1499,
+          "isAvailable": true,
+          "isSoldOut": false,
+          "hasCustomizations": true,
+          "imageUrl": "https://tb-static.uber.com/prod/merchant-menu-ai/images/f31d6057-636c-48f3-9a13-d4c1078e79f1_0a3eb476-ad93-4adb-8d5d-f041f251b080.jpeg",
+          "localImage": {
+            "filename": "urban-cheese-calzone.jpeg",
+            "relativePath": "assets/menu/urban-cheese-calzone.jpeg",
+            "width": 733,
+            "height": 440,
+            "format": "jpeg",
+            "sizeBytes": 72145
+          },
+          "endorsement": {
+            "endorsementType": "ratings",
+            "ratingPercentage": "75%",
+            "reviewCount": 8,
+            "badges": [],
+            "allTags": [
+              "75% (8)"
+            ]
+          },
+          "customizations": [
+            {
+              "uuid": "79886298-6474-4e02-a519-acb515e4a376",
+              "title": "Calzone Toppings",
+              "minPermitted": 0,
+              "maxPermitted": 12,
+              "options": [
+                {
+                  "uuid": "ac0421ed-2a2b-461c-af9b-e288c80710ef",
+                  "title": "Pepperoni",
+                  "priceCents": 150,
+                  "priceDollars": 1.5,
+                  "priceFormatted": "$1.50",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "d62a2764-eebd-4818-a086-ee06a1cf4bab",
+                  "title": "Chorizo",
+                  "priceCents": 150,
+                  "priceDollars": 1.5,
+                  "priceFormatted": "$1.50",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "3e430e26-d9d6-4b90-b5c1-343e93117405",
+                  "title": "Bacon",
+                  "priceCents": 150,
+                  "priceDollars": 1.5,
+                  "priceFormatted": "$1.50",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "4cba54fb-786e-43ae-ab57-f0023bdaafd3",
+                  "title": "Sausage",
+                  "priceCents": 150,
+                  "priceDollars": 1.5,
+                  "priceFormatted": "$1.50",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "62be1a39-9509-4dac-9310-35e2cb0c9ab8",
+                  "title": "Ham",
+                  "priceCents": 150,
+                  "priceDollars": 1.5,
+                  "priceFormatted": "$1.50",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "72429c14-ad2d-4520-8921-4da26532da4b",
+                  "title": "Peppers",
+                  "priceCents": 150,
+                  "priceDollars": 1.5,
+                  "priceFormatted": "$1.50",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "a27ce213-94c8-4e74-a21e-c9afc012cc76",
+                  "title": "Onions",
+                  "priceCents": 150,
+                  "priceDollars": 1.5,
+                  "priceFormatted": "$1.50",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "8ab221c7-0519-4a8d-b5d5-cd80fbd69cbe",
+                  "title": "Banana Peppers",
+                  "priceCents": 150,
+                  "priceDollars": 1.5,
+                  "priceFormatted": "$1.50",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "05b63608-1cd4-4523-9524-66d27496d638",
+                  "title": "Jalapenos",
+                  "priceCents": 150,
+                  "priceDollars": 1.5,
+                  "priceFormatted": "$1.50",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "907de038-6c63-4eea-bd69-0efa1797f146",
+                  "title": "Mushroom",
+                  "priceCents": 150,
+                  "priceDollars": 1.5,
+                  "priceFormatted": "$1.50",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "0b3d5ba7-9342-42b1-894f-1160b6357bc7",
+                  "title": "Black Olives",
+                  "priceCents": 150,
+                  "priceDollars": 1.5,
+                  "priceFormatted": "$1.50",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "d929752b-b5a0-46b1-9879-b0cbb71dfad6",
+                  "title": "Olives",
+                  "priceCents": 0,
+                  "priceDollars": 0.0,
+                  "priceFormatted": "$0.00",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "ed4588d8-9a8f-45dc-b18e-8477a8658ed9",
+                  "title": "Pineapple",
+                  "priceCents": 150,
+                  "priceDollars": 1.5,
+                  "priceFormatted": "$1.50",
+                  "isSoldOut": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uuid": "a9efd516-36b7-4bd8-80c4-d99291b74e65",
+          "name": "Urban Premium Calzone",
+          "description": "Ricotta, pepperoni, onions, sausage, mushrooms, green peppers, and mozzarella.",
+          "priceFormatted": "$16.99",
+          "priceDollars": 16.99,
+          "priceCents": 1699,
+          "isAvailable": true,
+          "isSoldOut": false,
+          "hasCustomizations": false,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c47187d816a1fa1c904e1cad1ff32a0c/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "localImage": {
+            "filename": "urban-premium-calzone.jpeg",
+            "relativePath": "assets/menu/urban-premium-calzone.jpeg",
+            "width": 348,
+            "height": 383,
+            "format": "jpeg",
+            "sizeBytes": 25789
+          },
+          "endorsement": {
+            "endorsementType": "ratings",
+            "ratingPercentage": "100%",
+            "reviewCount": 3,
+            "badges": [],
+            "allTags": [
+              "100% (3)"
+            ]
+          },
+          "customizations": []
+        },
+        {
+          "uuid": "02715760-a877-45d9-b0e7-16fb88ea74e4",
+          "name": "Urban Meat Lovers Calzone",
+          "description": "Pepperoni, sausage, meatballs, bacon, and ham.",
+          "priceFormatted": "$16.99",
+          "priceDollars": 16.99,
+          "priceCents": 1699,
+          "isAvailable": true,
+          "isSoldOut": false,
+          "hasCustomizations": false,
+          "imageUrl": "https://tb-static.uber.com/prod/merchant-menu-ai/images/f31d6057-636c-48f3-9a13-d4c1078e79f1_02715760-a877-45d9-b0e7-16fb88ea74e4.jpeg",
+          "localImage": {
+            "filename": "urban-meat-lovers-calzone.jpeg",
+            "relativePath": "assets/menu/urban-meat-lovers-calzone.jpeg",
+            "width": 733,
+            "height": 440,
+            "format": "jpeg",
+            "sizeBytes": 52718
+          },
+          "endorsement": {
+            "endorsementType": "ratings",
+            "ratingPercentage": "60%",
+            "reviewCount": 5,
+            "badges": [],
+            "allTags": [
+              "60% (5)"
+            ]
+          },
+          "customizations": []
+        },
+        {
+          "uuid": "46af418e-c5e5-48ba-b1eb-c93f7dd3bc49",
+          "name": "Urban Veggie Calzone",
+          "description": "Onions, green peppers, mushrooms, tomatoes, and black olives.",
+          "priceFormatted": "$15.99",
+          "priceDollars": 15.99,
+          "priceCents": 1599,
+          "isAvailable": true,
+          "isSoldOut": false,
+          "hasCustomizations": false,
+          "imageUrl": null,
+          "localImage": null,
+          "endorsement": {
+            "endorsementType": null,
+            "ratingPercentage": null,
+            "reviewCount": null,
+            "badges": [],
+            "allTags": []
+          },
+          "customizations": []
+        }
+      ]
+    },
+    {
+      "uuid": "e775f5a7-45ab-42d9-af89-c7fd42726d6f",
+      "name": "Deals",
+      "itemCount": 2,
+      "items": [
+        {
+          "uuid": "61e26060-6f43-4ab1-98f4-7fa35ba40226",
+          "name": "Urban Deal",
+          "description": "1 XL Pizza (1) topping\n(4) garlic knots \n2 liter soda",
+          "priceFormatted": "$46.00",
+          "priceDollars": 46.0,
+          "priceCents": 4600,
+          "isAvailable": true,
+          "isSoldOut": false,
+          "hasCustomizations": true,
+          "imageUrl": null,
+          "localImage": null,
+          "endorsement": {
+            "endorsementType": "ratings",
+            "ratingPercentage": "83%",
+            "reviewCount": 6,
+            "badges": [],
+            "allTags": [
+              "83% (6)"
+            ]
+          },
+          "customizations": [
+            {
+              "uuid": "2509bf2b-ff66-4542-b12e-480852dc093b",
+              "title": "Pizza 1 topping",
+              "minPermitted": 1,
+              "maxPermitted": 1,
+              "options": [
+                {
+                  "uuid": "3e430e26-d9d6-4b90-b5c1-343e93117405",
+                  "title": "Bacon",
+                  "priceCents": 0,
+                  "priceDollars": 0.0,
+                  "priceFormatted": "$0.00",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "ac0421ed-2a2b-461c-af9b-e288c80710ef",
+                  "title": "Pepperoni",
+                  "priceCents": 0,
+                  "priceDollars": 0.0,
+                  "priceFormatted": "$0.00",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "4cba54fb-786e-43ae-ab57-f0023bdaafd3",
+                  "title": "Sausage",
+                  "priceCents": 0,
+                  "priceDollars": 0.0,
+                  "priceFormatted": "$0.00",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "62be1a39-9509-4dac-9310-35e2cb0c9ab8",
+                  "title": "Ham",
+                  "priceCents": 0,
+                  "priceDollars": 0.0,
+                  "priceFormatted": "$0.00",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "eca9fdf8-a460-445a-82d0-5353cf12f5ec",
+                  "title": "Peppers",
+                  "priceCents": 0,
+                  "priceDollars": 0.0,
+                  "priceFormatted": "$0.00",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "a27ce213-94c8-4e74-a21e-c9afc012cc76",
+                  "title": "Onions",
+                  "priceCents": 0,
+                  "priceDollars": 0.0,
+                  "priceFormatted": "$0.00",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "d28c3dbe-d36f-4191-bf7b-31273affc9f2",
+                  "title": "Banana",
+                  "priceCents": 0,
+                  "priceDollars": 0.0,
+                  "priceFormatted": "$0.00",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "05b63608-1cd4-4523-9524-66d27496d638",
+                  "title": "Jalapenos",
+                  "priceCents": 0,
+                  "priceDollars": 0.0,
+                  "priceFormatted": "$0.00",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "907de038-6c63-4eea-bd69-0efa1797f146",
+                  "title": "Mushroom",
+                  "priceCents": 0,
+                  "priceDollars": 0.0,
+                  "priceFormatted": "$0.00",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "b8492117-8ab8-4ed4-af8d-2e125335b170",
+                  "title": "Black Olves",
+                  "priceCents": 0,
+                  "priceDollars": 0.0,
+                  "priceFormatted": "$0.00",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "ed4588d8-9a8f-45dc-b18e-8477a8658ed9",
+                  "title": "Pineapple",
+                  "priceCents": 0,
+                  "priceDollars": 0.0,
+                  "priceFormatted": "$0.00",
+                  "isSoldOut": false
+                }
+              ]
+            },
+            {
+              "uuid": "96511b2c-8176-42ee-828e-cfb963773501",
+              "title": "Choose your drink",
+              "minPermitted": 1,
+              "maxPermitted": 1,
+              "options": [
+                {
+                  "uuid": "aa7089ab-338d-48dd-948a-e19dcf6f6795",
+                  "title": "Cola",
+                  "priceCents": 0,
+                  "priceDollars": 0.0,
+                  "priceFormatted": "$0.00",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "749ae9b2-3aa2-4461-ae44-a4cdad7255b7",
+                  "title": "Diet Cola",
+                  "priceCents": 0,
+                  "priceDollars": 0.0,
+                  "priceFormatted": "$0.00",
+                  "isSoldOut": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uuid": "2edb6d1b-7c52-421a-8220-8c8312e04f19",
+          "name": "Family Deals",
+          "description": "1 Large Pizza (1) Topping \n(4)garlic Knots\n(10) Wings \n2 liter soda",
+          "priceFormatted": "$60.00",
+          "priceDollars": 60.0,
+          "priceCents": 6000,
+          "isAvailable": true,
+          "isSoldOut": false,
+          "hasCustomizations": true,
+          "imageUrl": null,
+          "localImage": null,
+          "endorsement": {
+            "endorsementType": null,
+            "ratingPercentage": null,
+            "reviewCount": null,
+            "badges": [],
+            "allTags": []
+          },
+          "customizations": [
+            {
+              "uuid": "2509bf2b-ff66-4542-b12e-480852dc093b",
+              "title": "Pizza 1 topping",
+              "minPermitted": 1,
+              "maxPermitted": 1,
+              "options": [
+                {
+                  "uuid": "3e430e26-d9d6-4b90-b5c1-343e93117405",
+                  "title": "Bacon",
+                  "priceCents": 0,
+                  "priceDollars": 0.0,
+                  "priceFormatted": "$0.00",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "ac0421ed-2a2b-461c-af9b-e288c80710ef",
+                  "title": "Pepperoni",
+                  "priceCents": 0,
+                  "priceDollars": 0.0,
+                  "priceFormatted": "$0.00",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "4cba54fb-786e-43ae-ab57-f0023bdaafd3",
+                  "title": "Sausage",
+                  "priceCents": 0,
+                  "priceDollars": 0.0,
+                  "priceFormatted": "$0.00",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "62be1a39-9509-4dac-9310-35e2cb0c9ab8",
+                  "title": "Ham",
+                  "priceCents": 0,
+                  "priceDollars": 0.0,
+                  "priceFormatted": "$0.00",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "eca9fdf8-a460-445a-82d0-5353cf12f5ec",
+                  "title": "Peppers",
+                  "priceCents": 0,
+                  "priceDollars": 0.0,
+                  "priceFormatted": "$0.00",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "a27ce213-94c8-4e74-a21e-c9afc012cc76",
+                  "title": "Onions",
+                  "priceCents": 0,
+                  "priceDollars": 0.0,
+                  "priceFormatted": "$0.00",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "d28c3dbe-d36f-4191-bf7b-31273affc9f2",
+                  "title": "Banana",
+                  "priceCents": 0,
+                  "priceDollars": 0.0,
+                  "priceFormatted": "$0.00",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "05b63608-1cd4-4523-9524-66d27496d638",
+                  "title": "Jalapenos",
+                  "priceCents": 0,
+                  "priceDollars": 0.0,
+                  "priceFormatted": "$0.00",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "907de038-6c63-4eea-bd69-0efa1797f146",
+                  "title": "Mushroom",
+                  "priceCents": 0,
+                  "priceDollars": 0.0,
+                  "priceFormatted": "$0.00",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "b8492117-8ab8-4ed4-af8d-2e125335b170",
+                  "title": "Black Olves",
+                  "priceCents": 0,
+                  "priceDollars": 0.0,
+                  "priceFormatted": "$0.00",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "ed4588d8-9a8f-45dc-b18e-8477a8658ed9",
+                  "title": "Pineapple",
+                  "priceCents": 0,
+                  "priceDollars": 0.0,
+                  "priceFormatted": "$0.00",
+                  "isSoldOut": false
+                }
+              ]
+            },
+            {
+              "uuid": "96511b2c-8176-42ee-828e-cfb963773501",
+              "title": "Choose your drink",
+              "minPermitted": 1,
+              "maxPermitted": 1,
+              "options": [
+                {
+                  "uuid": "aa7089ab-338d-48dd-948a-e19dcf6f6795",
+                  "title": "Cola",
+                  "priceCents": 0,
+                  "priceDollars": 0.0,
+                  "priceFormatted": "$0.00",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "749ae9b2-3aa2-4461-ae44-a4cdad7255b7",
+                  "title": "Diet Cola",
+                  "priceCents": 0,
+                  "priceDollars": 0.0,
+                  "priceFormatted": "$0.00",
+                  "isSoldOut": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uuid": "c7957943-90ac-404b-b61f-513d4271d2d2",
+      "name": "Desserts",
+      "itemCount": 4,
+      "items": [
+        {
+          "uuid": "65fdb7a1-8df1-4648-9b62-d1355f9ce713",
+          "name": "Cannoli",
+          "description": "Crisp, fried pastry shells filled with sweet ricotta cheese.",
+          "priceFormatted": "$8.99",
+          "priceDollars": 8.99,
+          "priceCents": 899,
+          "isAvailable": true,
+          "isSoldOut": false,
+          "hasCustomizations": false,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/3f8547a7b5e33fb1edeb7d7bb869fcc0/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "localImage": {
+            "filename": "cannoli.jpeg",
+            "relativePath": "assets/menu/cannoli.jpeg",
+            "width": 345,
+            "height": 353,
+            "format": "jpeg",
+            "sizeBytes": 33821
+          },
+          "endorsement": {
+            "endorsementType": "ratings",
+            "ratingPercentage": "75%",
+            "reviewCount": 4,
+            "badges": [],
+            "allTags": []
+          },
+          "customizations": []
+        },
+        {
+          "uuid": "12d1ad64-d8ee-48b0-9a04-3b276e4c96d5",
+          "name": "Tiramisu Cake",
+          "description": "Coffee-soaked ladyfingers layered with creamy mascarpone cheese.",
+          "priceFormatted": "$8.99",
+          "priceDollars": 8.99,
+          "priceCents": 899,
+          "isAvailable": true,
+          "isSoldOut": false,
+          "hasCustomizations": false,
+          "imageUrl": null,
+          "localImage": null,
+          "endorsement": {
+            "endorsementType": "ratings",
+            "ratingPercentage": "75%",
+            "reviewCount": 4,
+            "badges": [],
+            "allTags": [
+              "75% (4)"
+            ]
+          },
+          "customizations": []
+        },
+        {
+          "uuid": "86b3ef55-c9a4-4b8a-a015-ebf91869510e",
+          "name": "Freshly Baked Cookies",
+          "description": "Soft-baked treats, perfect for satisfying your sweet tooth.",
+          "priceFormatted": "$3.99",
+          "priceDollars": 3.99,
+          "priceCents": 399,
+          "isAvailable": true,
+          "isSoldOut": false,
+          "hasCustomizations": false,
+          "imageUrl": null,
+          "localImage": null,
+          "endorsement": {
+            "endorsementType": null,
+            "ratingPercentage": null,
+            "reviewCount": null,
+            "badges": [],
+            "allTags": [
+              "Popular"
+            ]
+          },
+          "customizations": []
+        },
+        {
+          "uuid": "c903b59c-818c-4d21-88c3-ecc81e7d9cae",
+          "name": "Cheesecake",
+          "description": "Rich and creamy dessert with a velvety texture.",
+          "priceFormatted": "$6.99",
+          "priceDollars": 6.99,
+          "priceCents": 699,
+          "isAvailable": true,
+          "isSoldOut": false,
+          "hasCustomizations": false,
+          "imageUrl": null,
+          "localImage": null,
+          "endorsement": {
+            "endorsementType": null,
+            "ratingPercentage": null,
+            "reviewCount": null,
+            "badges": [],
+            "allTags": [
+              "Popular"
+            ]
+          },
+          "customizations": []
+        }
+      ]
+    },
+    {
+      "uuid": "23c373ad-f3ae-4408-80d5-576095c09aa7",
+      "name": "Cold Refreshments",
+      "itemCount": 6,
+      "items": [
+        {
+          "uuid": "0939f863-9fc0-4d76-ba30-5ee79427eb02",
+          "name": "Bottled Soda (2 lts)",
+          "description": "Refreshing 2-liter bottled soda.",
+          "priceFormatted": "$6.69",
+          "priceDollars": 6.69,
+          "priceCents": 669,
+          "isAvailable": true,
+          "isSoldOut": false,
+          "hasCustomizations": true,
+          "imageUrl": null,
+          "localImage": null,
+          "endorsement": {
+            "endorsementType": "ratings",
+            "ratingPercentage": "94%",
+            "reviewCount": 19,
+            "badges": [],
+            "allTags": [
+              "94% (19)"
+            ]
+          },
+          "customizations": [
+            {
+              "uuid": "96511b2c-8176-42ee-828e-cfb963773501",
+              "title": "Choose your drink",
+              "minPermitted": 1,
+              "maxPermitted": 1,
+              "options": [
+                {
+                  "uuid": "aa7089ab-338d-48dd-948a-e19dcf6f6795",
+                  "title": "Cola",
+                  "priceCents": 0,
+                  "priceDollars": 0.0,
+                  "priceFormatted": "$0.00",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "749ae9b2-3aa2-4461-ae44-a4cdad7255b7",
+                  "title": "Diet Cola",
+                  "priceCents": 0,
+                  "priceDollars": 0.0,
+                  "priceFormatted": "$0.00",
+                  "isSoldOut": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uuid": "249e3e18-5cc8-436c-9ce9-20e66b36ee10",
+          "name": "Fountain Drinks",
+          "description": "Refreshing drinks to quench your thirst.",
+          "priceFormatted": "$3.99",
+          "priceDollars": 3.99,
+          "priceCents": 399,
+          "isAvailable": true,
+          "isSoldOut": false,
+          "hasCustomizations": true,
+          "imageUrl": null,
+          "localImage": null,
+          "endorsement": {
+            "endorsementType": "most_liked",
+            "ratingPercentage": null,
+            "reviewCount": null,
+            "badges": [],
+            "allTags": [
+              "Popular"
+            ]
+          },
+          "customizations": [
+            {
+              "uuid": "96511b2c-8176-42ee-828e-cfb963773501",
+              "title": "Choose your drink",
+              "minPermitted": 1,
+              "maxPermitted": 1,
+              "options": [
+                {
+                  "uuid": "aa7089ab-338d-48dd-948a-e19dcf6f6795",
+                  "title": "Cola",
+                  "priceCents": 0,
+                  "priceDollars": 0.0,
+                  "priceFormatted": "$0.00",
+                  "isSoldOut": false
+                },
+                {
+                  "uuid": "749ae9b2-3aa2-4461-ae44-a4cdad7255b7",
+                  "title": "Diet Cola",
+                  "priceCents": 0,
+                  "priceDollars": 0.0,
+                  "priceFormatted": "$0.00",
+                  "isSoldOut": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uuid": "70907cdd-d121-4b9e-9d9d-b735a4325c4f",
+          "name": "Bottle Water",
+          "description": "Refreshing and hydrating water.",
+          "priceFormatted": "$2.99",
+          "priceDollars": 2.99,
+          "priceCents": 299,
+          "isAvailable": true,
+          "isSoldOut": false,
+          "hasCustomizations": false,
+          "imageUrl": null,
+          "localImage": null,
+          "endorsement": {
+            "endorsementType": null,
+            "ratingPercentage": null,
+            "reviewCount": null,
+            "badges": [],
+            "allTags": []
+          },
+          "customizations": []
+        },
+        {
+          "uuid": "6f37b60f-f46d-404e-9e2c-a3d157ecd6e8",
+          "name": "Apple Juice",
+          "description": "Freshly squeezed juice from crisp apples.",
+          "priceFormatted": "$3.99",
+          "priceDollars": 3.99,
+          "priceCents": 399,
+          "isAvailable": true,
+          "isSoldOut": false,
+          "hasCustomizations": false,
+          "imageUrl": null,
+          "localImage": null,
+          "endorsement": {
+            "endorsementType": null,
+            "ratingPercentage": null,
+            "reviewCount": null,
+            "badges": [],
+            "allTags": []
+          },
+          "customizations": []
+        },
+        {
+          "uuid": "d0db56cb-0be6-46f5-85f3-3ba6751f6d1d",
+          "name": "Tea",
+          "description": "Refreshing hot or iced beverage.",
+          "priceFormatted": "$4.99",
+          "priceDollars": 4.99,
+          "priceCents": 499,
+          "isAvailable": true,
+          "isSoldOut": false,
+          "hasCustomizations": false,
+          "imageUrl": null,
+          "localImage": null,
+          "endorsement": {
+            "endorsementType": null,
+            "ratingPercentage": null,
+            "reviewCount": null,
+            "badges": [],
+            "allTags": []
+          },
+          "customizations": []
+        },
+        {
+          "uuid": "afc055a4-5ee8-4991-86b1-6de4e1b8863c",
+          "name": "Orange Juice",
+          "description": "Freshly squeezed juice from oranges.",
+          "priceFormatted": "$3.25",
+          "priceDollars": 3.25,
+          "priceCents": 325,
+          "isAvailable": true,
+          "isSoldOut": false,
+          "hasCustomizations": false,
+          "imageUrl": null,
+          "localImage": null,
+          "endorsement": {
+            "endorsementType": null,
+            "ratingPercentage": null,
+            "reviewCount": null,
+            "badges": [],
+            "allTags": []
+          },
+          "customizations": []
+        }
+      ]
+    }
+  ],
+  "downloadedAssets": {
+    "heroBanner": {
+      "originalUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5fa1608baf05fe2433361118f1cd54d8/16bb0a3ab8ea98cfe8906135767f7bf4.webp",
+      "localFilename": "store-hero-banner.webp",
+      "localPath": "assets/menu/store-hero-banner.webp",
+      "absolutePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/NonasUrbanPizza/assets/menu/store-hero-banner.webp",
+      "width": 2880,
+      "height": 1920,
+      "format": "webp",
+      "sizeBytes": 510154,
+      "allResolutions": [
+        {
+          "url": "https://tb-static.uber.com/prod/image-proc/processed_images/5fa1608baf05fe2433361118f1cd54d8/ec1689ae3a25695f1b8e25c59bec5034.webp",
+          "width": 240
+        },
+        {
+          "url": "https://tb-static.uber.com/prod/image-proc/processed_images/5fa1608baf05fe2433361118f1cd54d8/69ad85cd7b39888042b3bbf1c22d630d.webp",
+          "width": 550
+        },
+        {
+          "url": "https://tb-static.uber.com/prod/image-proc/processed_images/5fa1608baf05fe2433361118f1cd54d8/1d4135bf27b924efdd528452baa17174.webp",
+          "width": 640
+        },
+        {
+          "url": "https://tb-static.uber.com/prod/image-proc/processed_images/5fa1608baf05fe2433361118f1cd54d8/e0131c83be09a5694ebe179208a3825d.webp",
+          "width": 750
+        },
+        {
+          "url": "https://tb-static.uber.com/prod/image-proc/processed_images/5fa1608baf05fe2433361118f1cd54d8/d24a30ada2fef6c54cef8739d94823b0.webp",
+          "width": 1080
+        },
+        {
+          "url": "https://tb-static.uber.com/prod/image-proc/processed_images/5fa1608baf05fe2433361118f1cd54d8/16bb0a3ab8ea98cfe8906135767f7bf4.webp",
+          "width": 2880
+        }
+      ]
+    },
+    "menuItems": [
+      {
+        "itemTitle": "Wings (12 pcs)",
+        "originalUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/06725185978ead97c341309b366c6243/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+        "localFilename": "wings-12-pcs.jpeg",
+        "localPath": "assets/menu/wings-12-pcs.jpeg",
+        "absolutePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/NonasUrbanPizza/assets/menu/wings-12-pcs.jpeg",
+        "width": 347,
+        "height": 370,
+        "format": "jpeg",
+        "sizeBytes": 31085
+      },
+      {
+        "itemTitle": "Garlic Knots (8 pcs)",
+        "originalUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ded7b44b0a6c9e6ae76236bec751a98e/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+        "localFilename": "garlic-knots-8-pcs.jpeg",
+        "localPath": "assets/menu/garlic-knots-8-pcs.jpeg",
+        "absolutePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/NonasUrbanPizza/assets/menu/garlic-knots-8-pcs.jpeg",
+        "width": 350,
+        "height": 369,
+        "format": "jpeg",
+        "sizeBytes": 32234
+      },
+      {
+        "itemTitle": "Loaded Fries",
+        "originalUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/69662dc63ad88a1d54ed90fe222e5669/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+        "localFilename": "loaded-fries.jpeg",
+        "localPath": "assets/menu/loaded-fries.jpeg",
+        "absolutePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/NonasUrbanPizza/assets/menu/loaded-fries.jpeg",
+        "width": 351,
+        "height": 409,
+        "format": "jpeg",
+        "sizeBytes": 27874
+      },
+      {
+        "itemTitle": "6 Wings",
+        "originalUrl": "https://tb-static.uber.com/prod/merchant-menu-ai/images/f31d6057-636c-48f3-9a13-d4c1078e79f1_639c374b-8d89-4d46-bdad-61a771d82e2f.jpeg",
+        "localFilename": "6-wings.jpeg",
+        "localPath": "assets/menu/6-wings.jpeg",
+        "absolutePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/NonasUrbanPizza/assets/menu/6-wings.jpeg",
+        "width": 733,
+        "height": 440,
+        "format": "jpeg",
+        "sizeBytes": 58381
+      },
+      {
+        "itemTitle": "Extra Large Cheese Pizza 16\"",
+        "originalUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/13ced0a1c2d56a86dc3b4183839d0a9a/3093d07d5a810674a6d7adf26679874b.jpeg",
+        "localFilename": "extra-large-cheese-pizza-16in.jpeg",
+        "localPath": "assets/menu/extra-large-cheese-pizza-16in.jpeg",
+        "absolutePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/NonasUrbanPizza/assets/menu/extra-large-cheese-pizza-16in.jpeg",
+        "width": 582,
+        "height": 440,
+        "format": "jpeg",
+        "sizeBytes": 48090
+      },
+      {
+        "itemTitle": "Pizza 1 Topping 14\" - Deals",
+        "originalUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5881d34ead862c6ee0d7426ceec38bcc/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+        "localFilename": "pizza-1-topping-14in-deals.jpeg",
+        "localPath": "assets/menu/pizza-1-topping-14in-deals.jpeg",
+        "absolutePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/NonasUrbanPizza/assets/menu/pizza-1-topping-14in-deals.jpeg",
+        "width": 353,
+        "height": 320,
+        "format": "jpeg",
+        "sizeBytes": 30184
+      },
+      {
+        "itemTitle": "Tripleta Pizza",
+        "originalUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7a74c64c21a776f6daa01adf707d62a3/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+        "localFilename": "tripleta-pizza.jpeg",
+        "localPath": "assets/menu/tripleta-pizza.jpeg",
+        "absolutePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/NonasUrbanPizza/assets/menu/tripleta-pizza.jpeg",
+        "width": 333,
+        "height": 409,
+        "format": "jpeg",
+        "sizeBytes": 44242
+      },
+      {
+        "itemTitle": "Meat Lover Pizza",
+        "originalUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/eeeab986af1884063c5e8fb4538e902e/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+        "localFilename": "meat-lover-pizza.jpeg",
+        "localPath": "assets/menu/meat-lover-pizza.jpeg",
+        "absolutePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/NonasUrbanPizza/assets/menu/meat-lover-pizza.jpeg",
+        "width": 352,
+        "height": 347,
+        "format": "jpeg",
+        "sizeBytes": 29591
+      },
+      {
+        "itemTitle": "Margherita Pizza",
+        "originalUrl": "https://tb-static.uber.com/prod/merchant-menu-ai/images/f31d6057-636c-48f3-9a13-d4c1078e79f1_4a310680-5291-4f01-a5fe-a4d6ffdf9184.jpeg",
+        "localFilename": "margherita-pizza.jpeg",
+        "localPath": "assets/menu/margherita-pizza.jpeg",
+        "absolutePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/NonasUrbanPizza/assets/menu/margherita-pizza.jpeg",
+        "width": 733,
+        "height": 440,
+        "format": "jpeg",
+        "sizeBytes": 55770
+      },
+      {
+        "itemTitle": "Hawaiian Pizza",
+        "originalUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/aae80479755e55270f3f858a3a6dac43/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+        "localFilename": "hawaiian-pizza.jpeg",
+        "localPath": "assets/menu/hawaiian-pizza.jpeg",
+        "absolutePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/NonasUrbanPizza/assets/menu/hawaiian-pizza.jpeg",
+        "width": 350,
+        "height": 338,
+        "format": "jpeg",
+        "sizeBytes": 33571
+      },
+      {
+        "itemTitle": "Domi Pizza",
+        "originalUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/47746ef2ee06e730fa44932e6a452e29/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+        "localFilename": "domi-pizza.jpeg",
+        "localPath": "assets/menu/domi-pizza.jpeg",
+        "absolutePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/NonasUrbanPizza/assets/menu/domi-pizza.jpeg",
+        "width": 358,
+        "height": 368,
+        "format": "jpeg",
+        "sizeBytes": 27837
+      },
+      {
+        "itemTitle": "Chama Pizza",
+        "originalUrl": "https://tb-static.uber.com/prod/merchant-menu-ai/images/f31d6057-636c-48f3-9a13-d4c1078e79f1_b416b6be-98d0-4b20-b287-8f1e63cfb0fd.jpeg",
+        "localFilename": "chama-pizza.jpeg",
+        "localPath": "assets/menu/chama-pizza.jpeg",
+        "absolutePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/NonasUrbanPizza/assets/menu/chama-pizza.jpeg",
+        "width": 733,
+        "height": 440,
+        "format": "jpeg",
+        "sizeBytes": 68816
+      },
+      {
+        "itemTitle": "Buffalo Chicken Pizza",
+        "originalUrl": "https://tb-static.uber.com/prod/merchant-menu-ai/images/f31d6057-636c-48f3-9a13-d4c1078e79f1_3a9e25cd-c855-47ed-a168-30be98ba2424.jpeg",
+        "localFilename": "buffalo-chicken-pizza.jpeg",
+        "localPath": "assets/menu/buffalo-chicken-pizza.jpeg",
+        "absolutePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/NonasUrbanPizza/assets/menu/buffalo-chicken-pizza.jpeg",
+        "width": 733,
+        "height": 440,
+        "format": "jpeg",
+        "sizeBytes": 67557
+      },
+      {
+        "itemTitle": "Korean BBQ Pizza",
+        "originalUrl": "https://tb-static.uber.com/prod/merchant-menu-ai/images/f31d6057-636c-48f3-9a13-d4c1078e79f1_c9914ffc-a002-4e62-9018-3e394d9a8b95.jpeg",
+        "localFilename": "korean-bbq-pizza.jpeg",
+        "localPath": "assets/menu/korean-bbq-pizza.jpeg",
+        "absolutePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/NonasUrbanPizza/assets/menu/korean-bbq-pizza.jpeg",
+        "width": 550,
+        "height": 443,
+        "format": "jpeg",
+        "sizeBytes": 50027
+      },
+      {
+        "itemTitle": "Spaghetti W/Meatballs",
+        "originalUrl": "https://tb-static.uber.com/prod/merchant-menu-ai/images/f31d6057-636c-48f3-9a13-d4c1078e79f1_8eb38d9c-78af-4050-b9a7-92209c16fb51.jpeg",
+        "localFilename": "spaghetti-w-meatballs.jpeg",
+        "localPath": "assets/menu/spaghetti-w-meatballs.jpeg",
+        "absolutePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/NonasUrbanPizza/assets/menu/spaghetti-w-meatballs.jpeg",
+        "width": 733,
+        "height": 440,
+        "format": "jpeg",
+        "sizeBytes": 63092
+      },
+      {
+        "itemTitle": "Bake Spaghetti W/Meatballs",
+        "originalUrl": "https://tb-static.uber.com/prod/merchant-menu-ai/images/f31d6057-636c-48f3-9a13-d4c1078e79f1_75cdfed6-36a2-4fa1-9741-41b31dea39d7.jpeg",
+        "localFilename": "bake-spaghetti-w-meatballs.jpeg",
+        "localPath": "assets/menu/bake-spaghetti-w-meatballs.jpeg",
+        "absolutePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/NonasUrbanPizza/assets/menu/bake-spaghetti-w-meatballs.jpeg",
+        "width": 733,
+        "height": 440,
+        "format": "jpeg",
+        "sizeBytes": 63092
+      },
+      {
+        "itemTitle": "Urban Cheese Calzone",
+        "originalUrl": "https://tb-static.uber.com/prod/merchant-menu-ai/images/f31d6057-636c-48f3-9a13-d4c1078e79f1_0a3eb476-ad93-4adb-8d5d-f041f251b080.jpeg",
+        "localFilename": "urban-cheese-calzone.jpeg",
+        "localPath": "assets/menu/urban-cheese-calzone.jpeg",
+        "absolutePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/NonasUrbanPizza/assets/menu/urban-cheese-calzone.jpeg",
+        "width": 733,
+        "height": 440,
+        "format": "jpeg",
+        "sizeBytes": 72145
+      },
+      {
+        "itemTitle": "Urban Premium Calzone",
+        "originalUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c47187d816a1fa1c904e1cad1ff32a0c/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+        "localFilename": "urban-premium-calzone.jpeg",
+        "localPath": "assets/menu/urban-premium-calzone.jpeg",
+        "absolutePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/NonasUrbanPizza/assets/menu/urban-premium-calzone.jpeg",
+        "width": 348,
+        "height": 383,
+        "format": "jpeg",
+        "sizeBytes": 25789
+      },
+      {
+        "itemTitle": "Urban Meat Lovers Calzone",
+        "originalUrl": "https://tb-static.uber.com/prod/merchant-menu-ai/images/f31d6057-636c-48f3-9a13-d4c1078e79f1_02715760-a877-45d9-b0e7-16fb88ea74e4.jpeg",
+        "localFilename": "urban-meat-lovers-calzone.jpeg",
+        "localPath": "assets/menu/urban-meat-lovers-calzone.jpeg",
+        "absolutePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/NonasUrbanPizza/assets/menu/urban-meat-lovers-calzone.jpeg",
+        "width": 733,
+        "height": 440,
+        "format": "jpeg",
+        "sizeBytes": 52718
+      },
+      {
+        "itemTitle": "Cannoli",
+        "originalUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/3f8547a7b5e33fb1edeb7d7bb869fcc0/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+        "localFilename": "cannoli.jpeg",
+        "localPath": "assets/menu/cannoli.jpeg",
+        "absolutePath": "/Volumes/CIA-System/WEBSITE-CLIENTS/NonasUrbanPizza/assets/menu/cannoli.jpeg",
+        "width": 345,
+        "height": 353,
+        "format": "jpeg",
+        "sizeBytes": 33821
+      }
+    ]
+  }
+}
