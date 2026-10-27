@@ -390,10 +390,10 @@ button, input {
 
 .ribbon-header {
   max-width: 1440px;
-  margin: 0 auto 0.65rem;
+  margin: 0 auto 0.45rem;
   display: flex;
-  align-items: flex-end;
-  justify-content: space-between;
+  align-items: center;
+  justify-content: flex-end;
   gap: 1rem;
 }
 
